@@ -234,6 +234,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2117730946518745210"
  },
  {
+  "id": "2117913354073448738",
+  "title": "3D anime model generated from front-view image",
+  "title_zh": "由正面单图生成的3D动漫模型",
+  "category": "3d-scene",
+  "author": {
+   "handle": "MemoonKun",
+   "name": "Memoon"
+  },
+  "postUrl": "https://x.com/MemoonKun/status/2117913354073448738",
+  "createdAt": "2026-11-04T09:34:27.000Z",
+  "durationMs": 29883,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2117913354073448738/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2117913354073448738/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2117913354073448738"
+ },
+ {
   "id": "2117924044439712156",
   "title": "Chinese aesthetic 3D scene rendered in Three.js",
   "title_zh": "Three.js纯代码渲染的中国美学3D场景",
@@ -250,6 +268,24 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2117924044439712156/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2117924044439712156"
+ },
+ {
+  "id": "2117926687048683560",
+  "title": "Comparison between Fable 5.5, Opus 5.5, and Astra",
+  "title_zh": "Fable 5.5与Opus 5.5及Astra对比测试",
+  "category": "comparison",
+  "author": {
+   "handle": "leohuanfang",
+   "name": "Leohuan"
+  },
+  "postUrl": "https://x.com/leohuanfang/status/2117926687048683560",
+  "createdAt": "2026-11-04T10:27:26.000Z",
+  "durationMs": 16000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2117926687048683560/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2117926687048683560/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2117926687048683560"
  },
  {
   "id": "2117955030506709468",
@@ -416,6 +452,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2118581595267539404"
  },
  {
+  "id": "2118698617053868062",
+  "title": "Hand-drawn anime website with animated kite and sunrise",
+  "title_zh": "带有风筝与日出动画的手绘动漫风网页",
+  "category": "ui-demo",
+  "author": {
+   "handle": "learnwithcheer",
+   "name": "Cheer AI Agents"
+  },
+  "postUrl": "https://x.com/learnwithcheer/status/2118698617053868062",
+  "createdAt": "2026-11-06T13:34:48.000Z",
+  "durationMs": 59766,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2118698617053868062/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2118698617053868062/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2118698617053868062"
+ },
+ {
   "id": "2119289814222614575",
   "title": "Shanghai night view rendered in Three.js",
   "title_zh": "Three.js纯代码渲染上海夜景",
@@ -558,5 +612,41 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2120625322823684444/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2120625322823684444"
+ },
+ {
+  "id": "2121083423960035363",
+  "title": "One thousand pelicans riding bicycles down a street",
+  "title_zh": "一千只鹈鹕骑自行车穿过街道",
+  "category": "3d-scene",
+  "author": {
+   "handle": "ohouhou717",
+   "name": "喵老师"
+  },
+  "postUrl": "https://x.com/ohouhou717/status/2121083423960035363",
+  "createdAt": "2026-11-13T03:31:10.000Z",
+  "durationMs": 60000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2121083423960035363/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2121083423960035363/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2121083423960035363"
+ },
+ {
+  "id": "2121198245191770551",
+  "title": "Crowd simulation of pelicans cycling on city streets",
+  "title_zh": "千只鹈鹕骑行城市主干道的集群模拟",
+  "category": "3d-scene",
+  "author": {
+   "handle": "KOF97AI",
+   "name": "Nathan AI Lab ｜ AI Agent 实战"
+  },
+  "postUrl": "https://x.com/KOF97AI/status/2121198245191770551",
+  "createdAt": "2026-11-13T11:07:26.000Z",
+  "durationMs": 60053,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2121198245191770551/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2121198245191770551/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2121198245191770551"
  }
 ]
