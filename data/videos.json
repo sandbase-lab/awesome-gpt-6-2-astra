@@ -357,7 +357,7 @@
   "durationMs": 22800,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2117987734380011727/video.mp4",
   "promptShared": false,
-  "featured": 4,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2117987734380011727/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2117987734380011727"
  },
@@ -375,7 +375,7 @@
   "durationMs": 6400,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2118016475696894413/video.mp4",
   "promptShared": false,
-  "featured": 1,
+  "featured": 2,
   "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2118016475696894413/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2118016475696894413"
  },
@@ -483,7 +483,7 @@
   "durationMs": 108000,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2119289814222614575/video.mp4",
   "promptShared": false,
-  "featured": 3,
+  "featured": 4,
   "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2119289814222614575/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2119289814222614575"
  },
@@ -501,7 +501,7 @@
   "durationMs": 13066,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2119399538792521828/video.mp4",
   "promptShared": false,
-  "featured": null,
+  "featured": 0,
   "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2119399538792521828/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2119399538792521828"
  },
@@ -519,7 +519,7 @@
   "durationMs": 30000,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2119407085251170617/video.mp4",
   "promptShared": false,
-  "featured": 2,
+  "featured": 3,
   "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2119407085251170617/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2119407085251170617"
  },
@@ -591,7 +591,7 @@
   "durationMs": 36000,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2119811022873575426/video.mp4",
   "promptShared": false,
-  "featured": 0,
+  "featured": 1,
   "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2119811022873575426/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2119811022873575426"
  },
@@ -614,22 +614,22 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2120625322823684444"
  },
  {
-  "id": "2121083423960035363",
-  "title": "One thousand pelicans riding bicycles down a street",
-  "title_zh": "一千只鹈鹕骑自行车穿过街道",
+  "id": "2121119726743302493",
+  "title": "A thousand pelicans riding bicycles through city streets",
+  "title_zh": "千只鹈鹕在城市街道骑自行车",
   "category": "3d-scene",
   "author": {
-   "handle": "ohouhou717",
-   "name": "喵老师"
+   "handle": "huagechen",
+   "name": "孙小画"
   },
-  "postUrl": "https://x.com/ohouhou717/status/2121083423960035363",
-  "createdAt": "2026-11-13T03:31:10.000Z",
+  "postUrl": "https://x.com/huagechen/status/2121119726743302493",
+  "createdAt": "2026-11-13T05:55:26.000Z",
   "durationMs": 60000,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2121083423960035363/video.mp4",
   "promptShared": false,
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2121083423960035363/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2121083423960035363"
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2121119726743302493"
  },
  {
   "id": "2121198245191770551",
@@ -648,5 +648,41 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2121198245191770551/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2121198245191770551"
+ },
+ {
+  "id": "2121567830181331194",
+  "title": "Animation of ships sailing on water",
+  "title_zh": "水面上行驶的船只动画",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "SiftByte",
+   "name": "Dhaval"
+  },
+  "postUrl": "https://x.com/SiftByte/status/2121567830181331194",
+  "createdAt": "2026-11-14T11:36:02.000Z",
+  "durationMs": 7916,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2121567830181331194/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2121567830181331194/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2121567830181331194"
+ },
+ {
+  "id": "2121651873430052967",
+  "title": "Game placeholder scene created from scratch",
+  "title_zh": "从零生成的游戏占位场景",
+  "category": "game",
+  "author": {
+   "handle": "TokenGremlin",
+   "name": "Token Gremlin"
+  },
+  "postUrl": "https://x.com/TokenGremlin/status/2121651873430052967",
+  "createdAt": "2026-11-14T17:09:59.000Z",
+  "durationMs": 25000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2121651873430052967/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2121651873430052967/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2121651873430052967"
  }
 ]
