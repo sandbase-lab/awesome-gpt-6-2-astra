@@ -2,13 +2,13 @@
 
 [English](README.md) · 简体中文
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Videos](https://img.shields.io/badge/videos-38-blue)](#contents) [![Prompts](https://img.shields.io/badge/prompts-2-green)](docs/zh-CN/prompts.md) [![Sync](https://github.com/sandbase-lab/awesome-gpt-6-2-astra/actions/workflows/sync.yml/badge.svg)](https://github.com/sandbase-lab/awesome-gpt-6-2-astra/actions/workflows/sync.yml) [![Run on SandBase](https://img.shields.io/badge/run%20on-SandBase-black)](https://www.sandbase.ai/model/openai/gpt-6.2-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-astra)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Videos](https://img.shields.io/badge/videos-40-blue)](#contents) [![Prompts](https://img.shields.io/badge/prompts-3-green)](docs/zh-CN/prompts.md) [![Sync](https://github.com/sandbase-lab/awesome-gpt-6-2-astra/actions/workflows/sync.yml/badge.svg)](https://github.com/sandbase-lab/awesome-gpt-6-2-astra/actions/workflows/sync.yml) [![Run on SandBase](https://img.shields.io/badge/run%20on-SandBase-black)](https://www.sandbase.ai/model/openai/gpt-6.2-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-astra)
 
 [![Awesome GPT-6.2 Astra：视频、提示词、教程和模型对比](assets/banner.png)](https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra?lang=zh-CN&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-astra&utm_content=banner)
 
 精选 **GPT-6.2 Astra 案例**合集：用 GPT-6.2 Astra（OpenAI 模型，2026 年 11 月 1 日宣布）做出的视频、提示词和演示。包括 Three.js 与 WebGPU 3D 场景、动效、产品界面、游戏和讲解，均注明作者并链接原帖。模型写的是代码，每条视频都是页面播放时录下的画面。
 
-共 **38 条视频**，来自 **30 位创作者** · **2 条**附作者提示词 · 每天从 [SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra?lang=zh-CN&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-astra&utm_content=stats) 同步
+共 **40 条视频**，来自 **31 位创作者** · **3 条**附作者提示词 · 每天从 [SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra?lang=zh-CN&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-astra&utm_content=stats) 同步
 
 ## 从这里开始
 
@@ -26,12 +26,12 @@
 ## 目录
 
 - [精选](#featured) (8)
-- [3D 场景](#3d-scene) (9)
+- [3D 场景](#3d-scene) (10)
 - [动效](#motion-graphics) (11)
 - [游戏](#game) (4)
 - [产品界面](#ui-demo) (2)
 - [讲解](#explainer) (2)
-- [测试对比](#comparison) (10)
+- [测试对比](#comparison) (11)
 - [用 GPT-6.2 Astra 复刻视频](#recreate)
 - [常见问题](#faq)
 - [推荐作品](#contribute)
@@ -58,10 +58,11 @@
 </table>
 
 <details>
-<summary><b>展开全部 9 条</b></summary>
+<summary><b>展开全部 10 条</b></summary>
 
 <table>
 <tr><td width="33%" valign="top"><a href="https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2119521331637285138/video.mp4"><img src="previews/2119521331637285138.webp" alt="厨房场景生成测试" width="100%"></a><br><a href="https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2119521331637285138?lang=zh-CN&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-astra&utm_content=card"><b>厨房场景生成测试</b></a><br><sub><a href="https://x.com/mirochill/status/2119521331637285138">@mirochill</a> · 0:44</sub></td><td width="33%" valign="top"><a href="https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2121083423960035363/video.mp4"><img src="previews/2121119726743302493.webp" alt="千只鹈鹕在城市街道骑自行车" width="100%"></a><br><a href="https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2121119726743302493?lang=zh-CN&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-astra&utm_content=card"><b>千只鹈鹕在城市街道骑自行车</b></a><br><sub><a href="https://x.com/huagechen/status/2121119726743302493">@huagechen</a> · 1:00</sub></td><td width="33%" valign="top"><a href="https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2121198245191770551/video.mp4"><img src="previews/2121198245191770551.webp" alt="千只鹈鹕骑行城市主干道的集群模拟" width="100%"></a><br><a href="https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2121198245191770551?lang=zh-CN&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-astra&utm_content=card"><b>千只鹈鹕骑行城市主干道的集群模拟</b></a><br><sub><a href="https://x.com/KOF97AI/status/2121198245191770551">@KOF97AI</a> · 1:00</sub></td></tr>
+<tr><td width="33%" valign="top"><a href="https://www.sandbase.ai/lab/media/x/fable-5-2/2122354002373619755/video.mp4"><img src="previews/2122354002373619755.webp" alt="鹈鹕在海边骑自行车的测试视频" width="100%"></a><br><a href="https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2122354002373619755?lang=zh-CN&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-astra&utm_content=card"><b>鹈鹕在海边骑自行车的测试视频</b></a><br><sub><a href="https://x.com/Yuziyyaa/status/2122354002373619755">@Yuziyyaa</a> · 0:10</sub></td></tr>
 </table>
 
 </details>
@@ -120,16 +121,16 @@
 </table>
 
 <details>
-<summary><b>展开全部 10 条</b></summary>
+<summary><b>展开全部 11 条</b></summary>
 
 <table>
 <tr><td width="33%" valign="top"><a href="https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2117973639333298513/video.mp4"><img src="previews/2117973639333298513.webp" alt="动漫风格火柴人打斗动画对比" width="100%"></a><br><a href="https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2117973639333298513?lang=zh-CN&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-astra&utm_content=card"><b>动漫风格火柴人打斗动画对比</b></a><br><sub><a href="https://x.com/leohuanfang/status/2117973639333298513">@leohuanfang</a> · 0:13 · <a href="https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2117973639333298513?lang=zh-CN&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-astra&utm_content=card">提示词</a></sub></td><td width="33%" valign="top"><a href="https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2117987228764840440/video.mp4"><img src="previews/2117987228764840440.webp" alt="日食背景下鹈鹕骑自行车的3D动画" width="100%"></a><br><a href="https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2117987228764840440?lang=zh-CN&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-astra&utm_content=card"><b>日食背景下鹈鹕骑自行车的3D动画</b></a><br><sub><a href="https://x.com/EnvolDev/status/2117987228764840440">@EnvolDev</a> · 0:18</sub></td><td width="33%" valign="top"><a href="https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2118581595267539404/video.mp4"><img src="previews/2118581595267539404.webp" alt="GPT-6 Astra首发与当前版本对比" width="100%"></a><br><a href="https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2118581595267539404?lang=zh-CN&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-astra&utm_content=card"><b>GPT-6 Astra首发与当前版本对比</b></a><br><sub><a href="https://x.com/glitch_catAI/status/2118581595267539404">@glitch_catAI</a> · 0:09</sub></td></tr>
-<tr><td width="33%" valign="top"><a href="https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2119527377109672111/video.mp4"><img src="previews/2119527377109672111.webp" alt="Claude Opus 5.5对比GPT-6 Astra 3D效果" width="100%"></a><br><a href="https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2119527377109672111?lang=zh-CN&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-astra&utm_content=card"><b>Claude Opus 5.5对比GPT-6 Astra 3D效果</b></a><br><sub><a href="https://x.com/EnvolDev/status/2119527377109672111">@EnvolDev</a> · 0:25</sub></td></tr>
+<tr><td width="33%" valign="top"><a href="https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2119527377109672111/video.mp4"><img src="previews/2119527377109672111.webp" alt="Claude Opus 5.5对比GPT-6 Astra 3D效果" width="100%"></a><br><a href="https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2119527377109672111?lang=zh-CN&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-astra&utm_content=card"><b>Claude Opus 5.5对比GPT-6 Astra 3D效果</b></a><br><sub><a href="https://x.com/EnvolDev/status/2119527377109672111">@EnvolDev</a> · 0:25</sub></td><td width="33%" valign="top"><a href="https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122366081948123189/video.mp4"><img src="previews/2122366081948123189.webp" alt="四种AI模型渲染珊瑚礁的对比测试" width="100%"></a><br><a href="https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2122366081948123189?lang=zh-CN&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-astra&utm_content=card"><b>四种AI模型渲染珊瑚礁的对比测试</b></a><br><sub><a href="https://x.com/EnvolDev/status/2122366081948123189">@EnvolDev</a> · 0:25 · <a href="https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2122366081948123189?lang=zh-CN&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-astra&utm_content=card">提示词</a></sub></td></tr>
 </table>
 
 </details>
 
-**[在 SandBase Lab 查看全部 38 条 →](https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra?lang=zh-CN&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-astra&utm_content=section)**
+**[在 SandBase Lab 查看全部 40 条 →](https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra?lang=zh-CN&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-astra&utm_content=section)**
 
 <a id="recreate"></a>
 

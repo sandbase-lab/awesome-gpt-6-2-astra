@@ -2,11 +2,11 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 2 条 GPT-6.2 Astra 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 GPT-6.2 Astra 一键 **复刻**。第一次写 GPT-6.2 Astra 提示词？先看 [提示词写法](prompt-guide.md)。
+共 3 条 GPT-6.2 Astra 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 GPT-6.2 Astra 一键 **复刻**。第一次写 GPT-6.2 Astra 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，请打开 X 原帖查看完整讨论串。帖子原文保留作者语言。
 
-- [测试对比](#comparison) (2)
+- [测试对比](#comparison) (3)
 
 <a id="comparison"></a>
 
@@ -42,4 +42,27 @@ Top: Fable 5.5 in Claude Code: 66 min, $15.71, 46 sec
 Middle: Opus 5.5, no tools: 8.5 min, $1.11 
 Bottom: GPT-6.2 Astra $ 1.65
 Opus with no tools said it couldn't render a video, so it wrote a Python script.
+```
+
+### 四种AI模型渲染珊瑚礁的对比测试
+
+[@EnvolDev](https://x.com/EnvolDev/status/2122366081948123189) · 0:25 · [观看](https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122366081948123189/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2122366081948123189?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gpt-6-2-astra&utm_content=prompt-index)
+
+```text
+Fable 5.2 vs Opus 5.5 vs GPT-6 Astra vs GPT-6.1 Sol 🏝️
+
+The best Claude models vs the best GPT models. 🤯
+
+Same prompt: The Crown of the Reef
+Fable 5.2: $78.45 · 3h 15m 5s
+Opus 5.5: $54.96 · 1h 56m 9s
+GPT-6 Astra: $8.18 · 1h 12m 53s
+GPT-6.1 Sol: $1.41 · 1h 25m 11s
+
+All four ran on Extra High.
+
+Both GPT models were cheaper and faster. Now look at the islands. 😱
+OpenAI is far behind Anthropic right now.
+
+OpenAI needs to get their shit together and come back with GPT-6.2 Astra ASAP! 😤
 ```

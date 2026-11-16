@@ -684,5 +684,42 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2121651873430052967/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2121651873430052967"
+ },
+ {
+  "id": "2122354002373619755",
+  "title": "A pelican riding a bicycle by the sea",
+  "title_zh": "鹈鹕在海边骑自行车的测试视频",
+  "category": "3d-scene",
+  "author": {
+   "handle": "Yuziyyaa",
+   "name": "Youzi"
+  },
+  "postUrl": "https://x.com/Yuziyyaa/status/2122354002373619755",
+  "createdAt": "2026-11-16T15:40:00.000Z",
+  "durationMs": 10000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/fable-5-2/2122354002373619755/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/fable-5-2/2122354002373619755/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2122354002373619755"
+ },
+ {
+  "id": "2122366081948123189",
+  "title": "Comparison of four AI models rendering a reef",
+  "title_zh": "四种AI模型渲染珊瑚礁的对比测试",
+  "category": "comparison",
+  "author": {
+   "handle": "EnvolDev",
+   "name": "Tony"
+  },
+  "postUrl": "https://x.com/EnvolDev/status/2122366081948123189",
+  "createdAt": "2026-11-16T16:28:00.000Z",
+  "durationMs": 25000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122366081948123189/video.mp4",
+  "promptShared": true,
+  "promptText": "Fable 5.2 vs Opus 5.5 vs GPT-6 Astra vs GPT-6.1 Sol 🏝️\n\nThe best Claude models vs the best GPT models. 🤯\n\nSame prompt: The Crown of the Reef\nFable 5.2: $78.45 · 3h 15m 5s\nOpus 5.5: $54.96 · 1h 56m 9s\nGPT-6 Astra: $8.18 · 1h 12m 53s\nGPT-6.1 Sol: $1.41 · 1h 25m 11s\n\nAll four ran on Extra High.\n\nBoth GPT models were cheaper and faster. Now look at the islands. 😱\nOpenAI is far behind Anthropic right now.\n\nOpenAI needs to get their shit together and come back with GPT-6.2 Astra ASAP! 😤",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122366081948123189/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2122366081948123189"
  }
 ]
