@@ -736,7 +736,7 @@
   "durationMs": 30058,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122753859281928626/video.mp4",
   "promptShared": false,
-  "featured": 2,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122753859281928626/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2122753859281928626"
  },
@@ -754,7 +754,7 @@
   "durationMs": 49000,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122755434758967623/video.mp4",
   "promptShared": false,
-  "featured": 0,
+  "featured": 1,
   "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122755434758967623/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2122755434758967623"
  },
@@ -1079,7 +1079,7 @@
   "durationMs": 131500,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122797438326943962/video.mp4",
   "promptShared": false,
-  "featured": 1,
+  "featured": 2,
   "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122797438326943962/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2122797438326943962"
  },
@@ -1229,6 +1229,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2122822310428279136"
  },
  {
+  "id": "2122837291874070590",
+  "title": "Cowboy toy animation comparison in Blender",
+  "title_zh": "Blender牛仔玩具动画模型对比",
+  "category": "comparison",
+  "author": {
+   "handle": "ChrisGPT",
+   "name": "Chris"
+  },
+  "postUrl": "https://x.com/ChrisGPT/status/2122837291874070590",
+  "createdAt": "2026-11-17T23:40:25.000Z",
+  "durationMs": 10000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122837291874070590/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/fable-5-2/2122837291874070590/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2122837291874070590"
+ },
+ {
   "id": "2122843995923791990",
   "title": "Voxel ship in a bottle model comparison",
   "title_zh": "体素瓶中船生成效果双模型对比",
@@ -1260,7 +1278,7 @@
   "durationMs": 10000,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122854206709051691/video.mp4",
   "promptShared": false,
-  "featured": null,
+  "featured": 0,
   "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122854206709051691/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2122854206709051691"
  },
