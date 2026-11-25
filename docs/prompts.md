@@ -2,18 +2,43 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-24 GPT-6.2 Astra videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with GPT-6.2 Astra on SandBase Lab. New to prompting GPT-6.2 Astra? Start with the [prompt guide](prompt-guide.md).
+35 GPT-6.2 Astra videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with GPT-6.2 Astra on SandBase Lab. New to prompting GPT-6.2 Astra? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, so open the post on X to read the full thread. Posts keep the creator's language.
 
-- [3D scenes](#3d-scene) (4)
-- [Games](#game) (2)
+- [3D scenes](#3d-scene) (5)
+- [Games](#game) (4)
 - [Explainers](#explainer) (1)
-- [Tests & comparisons](#comparison) (17)
+- [Tests & comparisons](#comparison) (25)
 
 <a id="3d-scene"></a>
 
 ## 3D scenes
+
+### Cinematic 3D animation of Eastern fantasy world
+
+[@EmonData](https://x.com/EmonData/status/2123651216806985833) · [Watch](https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2123651216806985833/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2123651216806985833?utm_source=github&utm_medium=docs&utm_campaign=awesome-gpt-6-2-astra&utm_content=prompt-index)
+
+```text
+最近AI视频模型的迭代速度确实惊人，各种炫酷的视觉奇观层出不穷。不过，比起单纯追求“一键生成”的爽感，作为一个创作者，我其实更好奇目前大模型在底层空间逻辑和渲染上的真实极限。
+
+所以，今天我专门用刚出的 GPT-6.2 Astra 模型做了一次硬核测试，想聊聊目前 AI 在做“宏大叙事场景”时的真实表现。
+
+我选的测试主题是“东方玄幻”（悬浮仙岛、通天巨剑、云海瀑布）。为什么选这个？因为传统3D建模（比如用UE5或Blender）做这种场景是地狱级难度——体积光穿透云层的丁达尔效应、倒流瀑布的流体解算、还有巨剑上缠绕符文的PBR材质，这些都需要美术师耗费大量时间去打磨。
+
+Astra 的生成速度确实让我惊艳，它对光影的抓取和宏大氛围的渲染，已经能秒杀很多初级3D概念图了。
+
+但看多了就会发现一个问题： AI 虽然能精准堆叠“白玉宫殿”和“仙鹤盘旋”这种元素，但在“物理空间逻辑”上依然有撕裂感。比如云海的厚度感、剑插入山峰的重力质感，以及镜头推进时的空间纵深感，缺乏真正的“导演级”调度，有时像极了那种极度精美的“塑料模型”。
+
+这让我深刻感觉到：AI 是超级画笔，但它依然无法完全替代创作者的审美和叙事逻辑。 传统美术流程确实在被颠覆，但“懂镜头语言和空间透视”的人类，依然能给AI提供最具灵魂的骨架（这方面我还得多学习🤣）。
+
+👇 下面这个 3D 视频是用 AI (GPT-6.2 Astra) 生成的。提示词是：
+“A cinematic 3D animation of an epic Eastern fantasy world: giant floating immortal islands above a sea of clouds, ancient celestial gates, white jade palaces, reverse-flowing waterfalls, glowing rune stones, and a colossal sword piercing a mountain with golden runes coiling around it... [此处可保留你提示词的核心部分]”
+
+主要是想测试一下目前新模型在“大场景空间透视与体积光渲染”方面的能力上限。
+
+大家觉得这效果能打几分？未来人类建模师的价值会在哪里？欢迎交流呀。
+```
 
 ### Hyper-realistic WebGL scenes using GLSL shaders
 
@@ -82,6 +107,18 @@ It nailed it:
 The only thing it missed that would have made it AAA+ quality would be realistic props & clothing, as it's raining a lot. Dual lightsabers & a bikini would bring the whole experience together
 ```
 
+### A wilderness exploration game
+
+[@xikhar](https://x.com/xikhar/status/2123124656316219725) · [Watch](https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2123124656316219725/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2123124656316219725?utm_source=github&utm_medium=docs&utm_campaign=awesome-gpt-6-2-astra&utm_content=prompt-index)
+
+```text
+I had GPT-6.2 Astra build a wilderness exploration game. You can hunt, fish, and chop wood to make fire.  
+
+It ran for 10 hours on xhigh to make this. Not as great as what Fable or Opus would make, but it's still decent.
+
+Reference and prompt below.
+```
+
 ### Game Boy style RPG music score video
 
 [@aug5thmusic](https://x.com/aug5thmusic/status/2123140487368642799) · 1:47 · [Watch](https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2123140487368642799/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2123140487368642799?utm_source=github&utm_medium=docs&utm_campaign=awesome-gpt-6-2-astra&utm_content=prompt-index)
@@ -90,6 +127,23 @@ The only thing it missed that would have made it AAA+ quality would be realistic
 GPT-6.2 Astra - Gameboy RPG music and video (Extra High effort)
 Prompt (music): “In LilyPond, write the song for a peaceful town in a Gameboy RPG. Avoid simple homophony and write polyphonically by including two distinct melody instruments. These need not play continuously throughout the piece, but can create interesting textures by weaving in and out. Limit yourself to the Gameboy APU.”
 Prompt (video): “Create a score video with two loops, using the guidance in `[file directory]`. Mimic an actual Gameboy Color game, with Gameboy graphics and characters on the screen (no trademarked property). It's okay if the graphics occlude the sheet music at times. Make the video as visually impressive as possible.”
+```
+
+### Playable racing game in Unity and Three.js
+
+[@OxShamss](https://x.com/OxShamss/status/2125494236451651842) · [Watch](https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125494236451651842/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2125494236451651842?utm_source=github&utm_medium=docs&utm_campaign=awesome-gpt-6-2-astra&utm_content=prompt-index)
+
+```text
+Three.js builds AI 3D models faster than Blender
+
+Why are people still spending days building prototypes in game engines when AI can do it in a browser?
+
+I gave GPT-6.2 Astra the same task in Unity and Three.js: build a playable racing game with drifting, collisions, AI opponents and a working track.
+
+Unity: 1 hour 40 minutes and $12.40
+Three.js: 35 minutes and $4.80
+
+Which one actually feels better to play? 👀
 ```
 
 <a id="explainer"></a>
@@ -251,6 +305,67 @@ If you're making product videos for e-commerce or ads,
 "close enough" doesn't work. It has to look like the product.
 ```
 
+### PlayStation 1 style browser game comparison
+
+[@AmirMushich](https://x.com/AmirMushich/status/2123083664154144972) · [Watch](https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2123083664154144972/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2123083664154144972?utm_source=github&utm_medium=docs&utm_campaign=awesome-gpt-6-2-astra&utm_content=prompt-index)
+
+```text
+GPT-6.2 Astra vs Claude Fable 5.2
+Prompt: http://t.me/c/3958784500/154
+
+I gave both models the same game design doc and asked to create a PlayStation 1 styled browser game
+
+→ Gameplay:
+Fable did a better job - it's prototype feels more casual, more alive and dynamic
+→ Visuals:
+Though Fable's version is glitching in textures, its aesthetics are more complex, deep and immersive (models, light, level design, details, animation etc). UI design-wise - Claude did a way better, style-on, job.
+
+Tokens (V1 + V2)
+→ Astra: 24M tokens, 126K output
+→ Fable: 108M tokens, 671K output
+
+API cost (approx):
+→ Astra: ~$17
+→ Fable: ~$65
+
+I did a round of edits (v2 below🧵):
+→ Astra: ~$8 → ~$9
+→ Fable: ~$34 → ~$31
+Fable spent less on fixing than on building, but still 3.5x Astra
+
+Verdict: 
+Astra feels less buggy, but less risky, too
+Fable went all into the atmosphere (which gave me an immediate feeling that I prefer THIS), but you spend 3x+ times more tokens/money on it. 
+
+And one more strange thing about Fable:
+```
+
+### Interactive 3D oil painting world comparison
+
+[@FiniYang](https://x.com/FiniYang/status/2123807667026264561) · [Watch](https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2123807667026264561/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2123807667026264561?utm_source=github&utm_medium=docs&utm_campaign=awesome-gpt-6-2-astra&utm_content=prompt-index)
+
+```text
+这轮是 GPT-6.2 Astra 审美赢？
+
+走进《油画世界》，亲身感受梵高与莫奈的艺术
+
+⬆️ GPT-6.2 Astra（31 分 46 秒 · 20.1 万枚 3D 笔触）
+构图和配色克制得像人类美指调出来的绘本：红披风小人提着灯笼走过悬崖麦浪、木栅栏、红罂粟和白墙灯塔，连左下角色板都做成了微缩油画卡片
+
+⬇️ Gemini 4 Neon（16 分 28 秒 · 12.7 万枚 3D 笔触）
+速度快了接近一倍，星夜灯塔光束和线框自证都很扎实；但笔触卡片偏粗、色板饱和度冲过头，大风车怼在镜头前面有点透不过气
+
+看到豆包工作有DeepSeek可以白嫖，有点想去用大肥鱼也测一测这题，看看审美如何  😎
+
+🎨 在线双开同屏走进画里逛（WASD + Shift 跑麦浪，1–4 切大师色板，按 V 亲手拉「左线框 / 右油画」对比帘验货；顶栏下拉还能切 Hydrogen 版三方对照）：
+https://lab.finiyang.com/#impasto-cape:split
+
+🧪 模型实测馆首页（附三版独立试玩、源码包下载与完整反滤镜 Prompt）：
+https://lab.finiyang.com/
+
+#GPT62Astra #Gemini4Neon #Threejs #WebGL  #VibeCoding
+```
+
 ### Sunset gondola ride along the Grand Canal
 
 [@teddyaisi](https://x.com/teddyaisi/status/2124190810900140286) · [Watch](https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2124190810900140286/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2124190810900140286?utm_source=github&utm_medium=docs&utm_campaign=awesome-gpt-6-2-astra&utm_content=prompt-index)
@@ -293,6 +408,56 @@ Blender - 2 hours 15 minutes and $22.65
 Watch both walkers in motion. Which one wins? 👀
 ```
 
+### Comparison of cat and dog garden viewpoints
+
+[@hii_studio_jp](https://x.com/hii_studio_jp/status/2124387530728669595) · [Watch](https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2124387530728669595/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2124387530728669595?utm_source=github&utm_medium=docs&utm_campaign=awesome-gpt-6-2-astra&utm_content=prompt-index)
+
+```text
+上は猫の目線、下は犬の目線。
+どちらの庭も、AI が書いたコード（Three.js）だけで動いています。
+
+上：Claude Fable 5.2
+写真みたい。レンガの欠けまで細かい
+
+下：GPT-6.2 Astra
+絵本みたい。お話つきで、足音までコードで作ってくれた🐕
+
+AI によって個性の違いがあり、興味深いです。
+
+同じことを試したい方へ。
+Astra へは次のように頼みました。
+
+「(お手本のページの URL)
+ここを参考にして、同じやり方で Three.js で草木と家屋や壁や花壇などの映像を描いてみてください。犬の視点です。24 秒程度の動画でお願いします。」
+
+Astra には 1 回頼みました。Fable には、できた動画を見ながら何度か直してもらいました。
+動画の音は、下の Astra がコードで作ったものです。どちらも、動画生成 AI は使っていません。
+
+お手本は BubbleBrain さんの cat-garden（Fable 5.2 がコードだけで作った猫の庭）https://github.com/BubbleBrainBB/awesome-fable-5.2/tree/main/cat-garden
+です。
+```
+
+### Comparison of seaplane landing on Bora Bora
+
+[@AiAircle34052](https://x.com/AiAircle34052/status/2124392686287483210) · [Watch](https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2124392686287483210/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2124392686287483210?utm_source=github&utm_medium=docs&utm_campaign=awesome-gpt-6-2-astra&utm_content=prompt-index)
+
+```text
+【衝撃】
+同じ1文の指示で、4つのAIに3Dの映像を作らせた比較が話題😳　このうち Claude Opus 5.5 は、HTML 1枚で映像を作るのに12時間53分、約1,377ドルかかった。
+https://x.com/eliadele/status/2123878763624857693/video/1
+指示は「ボラボラ島の上を水上飛行機が飛び、着水して乗客を降ろす超リアルな映像」。投稿者の記録はこう👇
+・Gemini 4 Neon：20分・4.41ドル（3D表示の定番ライブラリ Three.js で、カメラも動かせる）
+・GPT-6.2 Astra：27分・6.32ドル（31.7MB もある大きな HTML。Three.js は使わず）
+・Claude Fable 5.2：1時間40分・115.69ドル（約6万5千行のコードで3D）
+・Claude Opus 5.5：12時間53分・1,376.70ドル（約7万3千行・独自の描画処理まで書いた）
+つまり
+❌ 一番高いモデルに頼めば正解
+⭕ 出来と時間・費用を並べてから選ぶ
+「結局どのAIに頼むのが正解？」
+→ 同じ指示で見比べるのが一番早い
+Opus が Fable の約12倍の費用に見合うかは、動画で確かめてみてください。
+```
+
 ### Morning walk through a glass botanical conservatory
 
 [@teddyaisi](https://x.com/teddyaisi/status/2124721602856354005) · [Watch](https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2124721602856354005/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2124721602856354005?utm_source=github&utm_medium=docs&utm_campaign=awesome-gpt-6-2-astra&utm_content=prompt-index)
@@ -306,6 +471,24 @@ GPT-6.2-Astra (Top): $6.87 · 46m 46s
 Gemini 4 Neon (Bottom): $10.19 · 1h 13m 54s
 
 Astra or Neon?👇❤️
+```
+
+### Warrior on an ice mammoth erupting from floor
+
+[@kinderlayer](https://x.com/kinderlayer/status/2124840020691284174) · [Watch](https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2124840020691284174/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2124840020691284174?utm_source=github&utm_medium=docs&utm_campaign=awesome-gpt-6-2-astra&utm_content=prompt-index)
+
+```text
+this is f*cking unreal.
+
+I gave two AIs one scene - a blade striking a palace floor - and told them to make it epic. they did NOT hold back.
+
+the floor froze over, cracked open, and a warrior riding a giant ice mammoth erupted straight out of it.
+
+same prompt, no edits. Claude Fable 5.2 (top) · GPT-6.2 Astra (bottom).
+
+and the kicker: one of these costs way more to run than the other - and you'd never guess which from the shot.
+
+which one hit harder?
 ```
 
 ### Comparing walker models in Three.js and Blender
@@ -432,4 +615,58 @@ We gave four frontier models AI-slop web pages and had each model edit each page
 After each edit, a separate judge call to the same model scored the page from 0% (no AI slop) to 100% (all AI slop).
 
 Every model's judge deemed its work fixed on edit 1. However, @OpenAI's GPT-6.2 Astra kept making updates on later edits, and the other models' judges gave its output the lowest slop scores. @AIatMeta's Muse Wonder, on the other hand, shifted toward formulaic beige layouts with serif headlines.
+```
+
+### Retro television interface displaying streaming service
+
+[@AIMind_Ai](https://x.com/AIMind_Ai/status/2125568138137817109) · [Watch](https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125568138137817109/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2125568138137817109?utm_source=github&utm_medium=docs&utm_campaign=awesome-gpt-6-2-astra&utm_content=prompt-index)
+
+```text
+Same prompt, 4 AIs: "Show me Netflix in the year 2000 on a real CRT TV."
+
+Gemini 4 Neon rebuilt Netflix.
+Claude Opus 5.5 refused to copy it and launched its own streaming service.
+
+GPT-6.2 Astra crashed before the room even loaded. Black screen, that's it.
+Grok 4.7 built the whole TV, then put the plastic frame in front of the screen. The picture is playing in there. Nobody can see it.
+
+What the f*ck is this?
+
+Would you have paid for CINEWAVE in 2000?
+```
+
+### Bullet train flying past Mount Fuji comparison
+
+[@HavisT83099](https://x.com/HavisT83099/status/2125583206934077860) · [Watch](https://www.sandbase.ai/lab/media/x/kimi-k3-1/2125583206934077860/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2125583206934077860?utm_source=github&utm_medium=docs&utm_campaign=awesome-gpt-6-2-astra&utm_content=prompt-index)
+
+```text
+GPT-6.2 Astra cut Mount Fuji right out of my reference photo 💀
+
+Same photo, same prompt: make this bullet train fly past Fuji.
+
+🥇 Claude Opus 5.5: $6.41 · 41 min
+🥈 GPT-6.2 Astra: $2.52 · 15 min
+🥉 Kimi K3.1 Pro: $0.39 · 7 min
+
+Opus built the whole thing in 3D. The train rips past right next to the camera and kicks a storm of petals off the trees.
+
+Astra's mountain, sky, pagoda and that big branch are pieces of the photo. Only the train is 3D, and after it passes it's a dot for most of the loop.
+
+Kimi's train looks like a Lego set and it's gone in about a second 😭
+
+Which one would you ride?
+```
+
+### Open world game prototype in Unreal Engine
+
+[@Stefan_3D_AI](https://x.com/Stefan_3D_AI/status/2125603959650078957) · [Watch](https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125603959650078957/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2125603959650078957?utm_source=github&utm_medium=docs&utm_campaign=awesome-gpt-6-2-astra&utm_content=prompt-index)
+
+```text
+Build a GTA 6-style game in Unreal Engine 5.9 in 24 hours. That's the challenge I gave GPT-6.2 Astra and Claude Fable 5.2.
+Same task. Same tools. 24 hours.
+Character + car → location → complete playable game.
+The results, graphics and costs were very different.
+https://youtu.be/q7wakk1XapE
+
+#AI #GameDev #UnrealEngine #Claude #GPT
 ```
