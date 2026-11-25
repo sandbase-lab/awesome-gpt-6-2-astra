@@ -375,7 +375,7 @@
   "durationMs": 7317,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2118163378891805134/video.mp4",
   "promptShared": false,
-  "featured": 3,
+  "featured": 6,
   "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2118163378891805134/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2118163378891805134"
  },
@@ -542,24 +542,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2119521331637285138"
  },
  {
-  "id": "2119527377109672111",
-  "title": "Claude Opus 5.5 versus GPT-6 Astra 3D comparison",
-  "title_zh": "Claude Opus 5.5对比GPT-6 Astra 3D效果",
-  "category": "comparison",
-  "author": {
-   "handle": "EnvolDev",
-   "name": "Tony"
-  },
-  "postUrl": "https://x.com/EnvolDev/status/2119527377109672111",
-  "createdAt": "2026-11-08T20:28:00.000Z",
-  "durationMs": 25000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2119527377109672111/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2119527377109672111/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2119527377109672111"
- },
- {
   "id": "2119811022873575426",
   "title": "Discussion of upcoming top AI models",
   "title_zh": "探讨即将发布的顶级AI模型",
@@ -663,7 +645,7 @@
   "durationMs": 25000,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2121651873430052967/video.mp4",
   "promptShared": false,
-  "featured": 6,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2121651873430052967/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2121651873430052967"
  },
@@ -684,25 +666,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/fable-5-2/2122354002373619755/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2122354002373619755"
- },
- {
-  "id": "2122366081948123189",
-  "title": "Comparison of four AI models rendering a reef",
-  "title_zh": "四种AI模型渲染珊瑚礁的对比测试",
-  "category": "comparison",
-  "author": {
-   "handle": "EnvolDev",
-   "name": "Tony"
-  },
-  "postUrl": "https://x.com/EnvolDev/status/2122366081948123189",
-  "createdAt": "2026-11-16T16:28:00.000Z",
-  "durationMs": 25000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122366081948123189/video.mp4",
-  "promptShared": true,
-  "promptText": "Fable 5.2 vs Opus 5.5 vs GPT-6 Astra vs GPT-6.1 Sol 🏝️\n\nThe best Claude models vs the best GPT models. 🤯\n\nSame prompt: The Crown of the Reef\nFable 5.2: $78.45 · 3h 15m 5s\nOpus 5.5: $54.96 · 1h 56m 9s\nGPT-6 Astra: $8.18 · 1h 12m 53s\nGPT-6.1 Sol: $1.41 · 1h 25m 11s\n\nAll four ran on Extra High.\n\nBoth GPT models were cheaper and faster. Now look at the islands. 😱\nOpenAI is far behind Anthropic right now.\n\nOpenAI needs to get their shit together and come back with GPT-6.2 Astra ASAP! 😤",
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122366081948123189/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2122366081948123189"
  },
  {
   "id": "2122753176113688601",
@@ -733,7 +696,7 @@
   },
   "postUrl": "https://x.com/Dimillian/status/2122753859281928626",
   "createdAt": "2026-11-17T18:08:53.000Z",
-  "durationMs": 30058,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122753859281928626/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -751,10 +714,10 @@
   },
   "postUrl": "https://x.com/pvncher/status/2122755434758967623",
   "createdAt": "2026-11-17T18:15:09.000Z",
-  "durationMs": 49000,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122755434758967623/video.mp4",
   "promptShared": false,
-  "featured": 1,
+  "featured": 4,
   "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122755434758967623/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2122755434758967623"
  },
@@ -787,7 +750,7 @@
   },
   "postUrl": "https://x.com/yangzhong01/status/2122761102870138956",
   "createdAt": "2026-11-17T18:37:40.000Z",
-  "durationMs": 12000,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122761102870138956/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -859,7 +822,7 @@
   },
   "postUrl": "https://x.com/cptaetherjack/status/2122767787068448816",
   "createdAt": "2026-11-17T19:04:14.000Z",
-  "durationMs": 27800,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122767787068448816/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -967,7 +930,7 @@
   },
   "postUrl": "https://x.com/jithingarapati/status/2122779945965699148",
   "createdAt": "2026-11-17T19:52:33.000Z",
-  "durationMs": 28733,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122779945965699148/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -993,6 +956,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2122781234191319492"
  },
  {
+  "id": "2122781603676168272",
+  "title": "Showcase of AI visual effects",
+  "title_zh": "AI视觉特效作品展示",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "ashebytes",
+   "name": "ashe"
+  },
+  "postUrl": "https://x.com/ashebytes/status/2122781603676168272",
+  "createdAt": "2026-11-17T19:59:08.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122781603676168272/video.mp4",
+  "promptShared": false,
+  "featured": 2,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122781603676168272/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2122781603676168272"
+ },
+ {
   "id": "2122788211735048348",
   "title": "Realistic NPC gesture improvements in game scene",
   "title_zh": "游戏场景中的NPC逼真手势改进",
@@ -1003,7 +984,7 @@
   },
   "postUrl": "https://x.com/MrCollison/status/2122788211735048348",
   "createdAt": "2026-11-17T20:25:23.000Z",
-  "durationMs": 80510,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122788211735048348/video.mp4",
   "promptShared": true,
   "promptText": "This is just wrong. I just tried GPT-6.2 Astra. Here's a 1 shot result trying to improve a game scene\n\nMy prompt: \"The NPC in this sequence feels fake. Please make him do realistic gestures that you would see when people speak in real life & any other improvements\"\n\nIt nailed it:\n- Eye contact: much less of it. This NPC hates the main character, so he barely looks at him now\n- Hand gestures: this NPC fucking hates his job, so he is crumping to the 5 stages of grief\n- Positional Audio: when a character talks, their voice should move where their mouth goes. So when he turns around, the speech gets quieter and more muffled\n\nThe only thing it missed that would have made it AAA+ quality would be realistic props & clothing, as it's raining a lot. Dual lightsabers & a bikini would bring the whole experience together",
@@ -1040,7 +1021,7 @@
   },
   "postUrl": "https://x.com/AmirMushich/status/2122790354781192518",
   "createdAt": "2026-11-17T20:33:54.000Z",
-  "durationMs": 11980,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122790354781192518/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -1079,7 +1060,7 @@
   "durationMs": 131500,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122797438326943962/video.mp4",
   "promptShared": false,
-  "featured": 2,
+  "featured": 5,
   "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122797438326943962/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2122797438326943962"
  },
@@ -1097,7 +1078,7 @@
   "durationMs": 14000,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122800268706259244/video.mp4",
   "promptShared": false,
-  "featured": null,
+  "featured": 0,
   "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122800268706259244/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2122800268706259244"
  },
@@ -1115,7 +1096,7 @@
   "durationMs": 26433,
   "mp4": "https://www.sandbase.ai/lab/media/x/fable-5-2/2122800630268080599/video.mp4",
   "promptShared": false,
-  "featured": 4,
+  "featured": 7,
   "poster": "https://www.sandbase.ai/lab/media/x/fable-5-2/2122800630268080599/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2122800630268080599"
  },
@@ -1130,7 +1111,7 @@
   },
   "postUrl": "https://x.com/EnvolDev/status/2122803967272866254",
   "createdAt": "2026-11-17T21:28:00.000Z",
-  "durationMs": 25000,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2122803967272866254/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -1184,7 +1165,7 @@
   },
   "postUrl": "https://x.com/AmirMushich/status/2122815524124152216",
   "createdAt": "2026-11-17T22:13:55.000Z",
-  "durationMs": 11980,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/fable-5-2/2122815524124152216/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -1220,10 +1201,10 @@
   },
   "postUrl": "https://x.com/simonw/status/2122822310428279136",
   "createdAt": "2026-11-17T22:40:53.000Z",
-  "durationMs": 20000,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122822310428279136/video.mp4",
   "promptShared": true,
-  "promptText": "Here's GPT-6.2 Astra and GPT-6.2 Sol for \"Make a three js animation where yonkers stands up as a big mech (cool stand up motion) and stomps around manhattan and queens and Brooklyn, use openstreetmap mapping data\" https://t.co/oRZT2zMByi",
+  "promptText": "Here's GPT-6.2 Astra and GPT-6.2 Sol for \"Make a three js animation where yonkers stands up as a big mech (cool stand up motion) and stomps around manhattan and queens and Brooklyn, use openstreetmap mapping data\" https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122822310428279136/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2122822310428279136"
@@ -1278,7 +1259,7 @@
   "durationMs": 10000,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122854206709051691/video.mp4",
   "promptShared": false,
-  "featured": 0,
+  "featured": 1,
   "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122854206709051691/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2122854206709051691"
  },
@@ -1293,7 +1274,7 @@
   },
   "postUrl": "https://x.com/dom_scholz/status/2122862040326807696",
   "createdAt": "2026-11-18T01:18:45.000Z",
-  "durationMs": 40000,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/fable-5-2/2122862040326807696/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -1301,22 +1282,22 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2122862040326807696"
  },
  {
-  "id": "2122871498792964445",
-  "title": "Pineapple wobbling physics model comparison",
-  "title_zh": "两款大模型菠萝晃动物理效果对比",
-  "category": "comparison",
+  "id": "2122865896339165424",
+  "title": "Roblox project built in two prompts",
+  "title_zh": "仅用两条提示词制作的 Roblox 项目",
+  "category": "game",
   "author": {
-   "handle": "vib3coded",
-   "name": "Vib3Coded"
+   "handle": "_andersrask",
+   "name": "Rask"
   },
-  "postUrl": "https://x.com/vib3coded/status/2122871498792964445",
-  "createdAt": "2026-11-18T01:56:21.000Z",
-  "durationMs": 18000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122871498792964445/video.mp4",
+  "postUrl": "https://x.com/_andersrask/status/2122865896339165424",
+  "createdAt": "2026-11-18T01:34:05.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122865896339165424/video.mp4",
   "promptShared": false,
   "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122871498792964445/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2122871498792964445"
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122865896339165424/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2122865896339165424"
  },
  {
   "id": "2122879969420566740",
@@ -1329,7 +1310,7 @@
   },
   "postUrl": "https://x.com/rubenssoto_ai/status/2122879969420566740",
   "createdAt": "2026-11-18T02:30:00.000Z",
-  "durationMs": 30000,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122879969420566740/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -1373,24 +1354,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2122893725512958428"
  },
  {
-  "id": "2122904937655148597",
-  "title": "Three.js octopus test comparison",
-  "title_zh": "Three.js章鱼动画渲染测试对比",
-  "category": "comparison",
-  "author": {
-   "handle": "teddyaisi",
-   "name": "Teddy"
-  },
-  "postUrl": "https://x.com/teddyaisi/status/2122904937655148597",
-  "createdAt": "2026-11-18T04:09:13.000Z",
-  "durationMs": 20000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122904937655148597/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122904937655148597/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2122904937655148597"
- },
- {
   "id": "2122924848032993560",
   "title": "Four model comparison of a black hole",
   "title_zh": "四款黑洞模拟生成的模型对比",
@@ -1426,24 +1389,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122956296760528994/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2122956296760528994"
- },
- {
-  "id": "2122982650042597803",
-  "title": "Slow motion Three.js cheetah sprint comparison",
-  "title_zh": "Three.js慢动作猎豹奔跑对比",
-  "category": "comparison",
-  "author": {
-   "handle": "teddyaisi",
-   "name": "Teddy"
-  },
-  "postUrl": "https://x.com/teddyaisi/status/2122982650042597803",
-  "createdAt": "2026-11-18T09:18:01.000Z",
-  "durationMs": 20000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122982650042597803/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122982650042597803/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2122982650042597803"
  },
  {
   "id": "2122989930699792818",
@@ -1529,7 +1474,7 @@
   },
   "postUrl": "https://x.com/alohaproxy/status/2123030965777821985",
   "createdAt": "2026-11-18T12:30:00.000Z",
-  "durationMs": 48333,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2123030965777821985/video.mp4",
   "promptShared": true,
   "promptText": "GPT-6.2 ASTRA vs GPT-6.2 SOL is actually wild 😳\n\nI gave both models the exact same massive Three.js challenge: build a cinematic sci-fi mech that assembles itself, powers up, and launches into the sky.\n\nAstra wins on visuals imo, but Sol gets surprisingly close for nearly 3x less money.\n\nComplete cost/token breakdown and prompt below 👇",
@@ -1584,7 +1529,7 @@
   },
   "postUrl": "https://x.com/Tuola0205/status/2123038739161325908",
   "createdAt": "2026-11-18T13:00:54.000Z",
-  "durationMs": 25000,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2123038739161325908/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -1602,13 +1547,31 @@
   },
   "postUrl": "https://x.com/GrowthGPTHQ/status/2123041814546682268",
   "createdAt": "2026-11-18T13:13:07.000Z",
-  "durationMs": 6000,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2123041814546682268/video.mp4",
   "promptShared": true,
   "promptText": "GPT-6.2 Astra vs Claude Fable 5.2 vs GrowthGPT\n\nAstra dropped today, and 3D is the thing everyone's testing. So we gave all three the same reference image and the same prompt:\n\"Create a 3D model animation video of this product.\"\n\nHonestly, neither Fable nor Astra gets close enough to the reference.\n\n→ Fable 5.2\nTransparency is decent.\nBut the case is too flat, and the lid floats off instead of hinging open.\n\n→ GPT-6.2 Astra\nBetter than Fable. Proportions are right, the lid opens properly.\nBut the shell reads grey and solid. The reference is clear.\n\n→ GrowthGPT\nRibbed shell, hinge, internals, both buds.\nClosest to the reference by a wide margin.\n\nIf you're making product videos for e-commerce or ads,\n\"close enough\" doesn't work. It has to look like the product.",
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2123041814546682268/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2123041814546682268"
+ },
+ {
+  "id": "2123045457958191393",
+  "title": "Enhanced video game shader",
+  "title_zh": "游戏着色器效果增强演示",
+  "category": "3d-scene",
+  "author": {
+   "handle": "p_rabtsevich",
+   "name": "Pavel Rabtsevich"
+  },
+  "postUrl": "https://x.com/p_rabtsevich/status/2123045457958191393",
+  "createdAt": "2026-11-18T13:27:36.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2123045457958191393/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2123045457958191393/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2123045457958191393"
  },
  {
   "id": "2123055984243511482",
@@ -1699,24 +1662,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2123069779368153121/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2123069779368153121"
- },
- {
-  "id": "2123070036348727301",
-  "title": "Three.js North Sea oil rig hit by rogue wave",
-  "title_zh": "Three.js制作的北海巨浪冲击钻井平台",
-  "category": "comparison",
-  "author": {
-   "handle": "teddyaisi",
-   "name": "Teddy"
-  },
-  "postUrl": "https://x.com/teddyaisi/status/2123070036348727301",
-  "createdAt": "2026-11-18T15:05:16.000Z",
-  "durationMs": 20000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2123070036348727301/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2123070036348727301/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2123070036348727301"
  },
  {
   "id": "2123083513188454446",
@@ -1822,7 +1767,7 @@
   "durationMs": 7244,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2123121331281723751/video.mp4",
   "promptShared": false,
-  "featured": 7,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2123121331281723751/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2123121331281723751"
  },
@@ -1837,7 +1782,7 @@
   },
   "postUrl": "https://x.com/petergyang/status/2123121608860762307",
   "createdAt": "2026-11-18T18:30:11.000Z",
-  "durationMs": 61653,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123121608860762307/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -1858,7 +1803,7 @@
   "durationMs": 30143,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2123122214468010183/video.mp4",
   "promptShared": false,
-  "featured": 5,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2123122214468010183/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2123122214468010183"
  },
@@ -1891,7 +1836,7 @@
   },
   "postUrl": "https://x.com/tobiadonadon_/status/2123126087269957998",
   "createdAt": "2026-11-18T18:47:59.000Z",
-  "durationMs": 12000,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2123126087269957998/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -1934,5 +1879,758 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2123151320987365603/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2123151320987365603"
+ },
+ {
+  "id": "2123220255963263123",
+  "title": "Urban encounter battle scene in Unity",
+  "title_zh": "在 Unity 中制作的城市遭遇战场景",
+  "category": "game",
+  "author": {
+   "handle": "ShadeLurk",
+   "name": "ShadeLurk"
+  },
+  "postUrl": "https://x.com/ShadeLurk/status/2123220255963263123",
+  "createdAt": "2026-11-19T01:02:11.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2123220255963263123/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2123220255963263123/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2123220255963263123"
+ },
+ {
+  "id": "2123256864125202670",
+  "title": "Procedural drowned neo-gothic city shader",
+  "title_zh": "程序化水下新哥特风格城市着色器",
+  "category": "3d-scene",
+  "author": {
+   "handle": "emollick",
+   "name": "Ethan Mollick"
+  },
+  "postUrl": "https://x.com/emollick/status/2123256864125202670",
+  "createdAt": "2026-11-19T03:27:39.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2123256864125202670/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2123256864125202670/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2123256864125202670"
+ },
+ {
+  "id": "2123268369369514311",
+  "title": "Game development and 3D modeling demonstration",
+  "title_zh": "游戏开发与三维建模动画演示",
+  "category": "game",
+  "author": {
+   "handle": "soya_da_yoot",
+   "name": "Soya ⚡ AI Automation Builder"
+  },
+  "postUrl": "https://x.com/soya_da_yoot/status/2123268369369514311",
+  "createdAt": "2026-11-19T04:13:22.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2123268369369514311/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2123268369369514311/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2123268369369514311"
+ },
+ {
+  "id": "2123455282806456524",
+  "title": "The last train to Saturn rendered in 3D",
+  "title_zh": "三维渲染开往土星的最后一班列车",
+  "category": "3d-scene",
+  "author": {
+   "handle": "notjazii",
+   "name": "J A Z I I"
+  },
+  "postUrl": "https://x.com/notjazii/status/2123455282806456524",
+  "createdAt": "2026-11-19T16:36:05.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2123455282806456524/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2123455282806456524/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2123455282806456524"
+ },
+ {
+  "id": "2123581865965855205",
+  "title": "Comparison between GPT-6.2 Astra and Dreamina Seedance",
+  "title_zh": "GPT-6.2 Astra 与 Dreamina Seedance 生成对比",
+  "category": "comparison",
+  "author": {
+   "handle": "ArtificialAnlys",
+   "name": "Artificial Analysis"
+  },
+  "postUrl": "https://x.com/ArtificialAnlys/status/2123581865965855205",
+  "createdAt": "2026-11-20T00:59:05.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2123581865965855205/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2123581865965855205/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2123581865965855205"
+ },
+ {
+  "id": "2123627618146959641",
+  "title": "Kyoto torii path and bamboo grove walk comparison",
+  "title_zh": "京都鸟居与竹林漫步渲染对比",
+  "category": "comparison",
+  "author": {
+   "handle": "teddyaisi",
+   "name": "Teddy"
+  },
+  "postUrl": "https://x.com/teddyaisi/status/2123627618146959641",
+  "createdAt": "2026-11-20T04:00:53.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2123627618146959641/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2123627618146959641/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2123627618146959641"
+ },
+ {
+  "id": "2123669447248347136",
+  "title": "Blueprint transforming into a 3D product ad",
+  "title_zh": "蓝图转变为3D产品广告",
+  "category": "launch-film",
+  "author": {
+   "handle": "Diana_Osire",
+   "name": "Diana Osire"
+  },
+  "postUrl": "https://x.com/Diana_Osire/status/2123669447248347136",
+  "createdAt": "2026-11-20T06:47:06.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2123669447248347136/video.mp4",
+  "promptShared": false,
+  "featured": 3,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2123669447248347136/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2123669447248347136"
+ },
+ {
+  "id": "2123774006683709684",
+  "title": "Creating 2.5D environments in Godot tutorial",
+  "title_zh": "Godot制作2.5D游戏场景教程",
+  "category": "explainer",
+  "author": {
+   "handle": "thomas_guilcher",
+   "name": "Thomas Guilcher-Trouche"
+  },
+  "postUrl": "https://x.com/thomas_guilcher/status/2123774006683709684",
+  "createdAt": "2026-11-20T13:42:35.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2123774006683709684/video.mp4",
+  "promptShared": true,
+  "promptText": "A lot of you asked how I made those 2.5D environments in Godot, so here’s a video tutorial 😉\n\nI used GPT-6.2 Astra Max with ImageGen in Codex. Both prompts are in the video.\n\nHave fun building and share your creations 😄\n\nGrab the skill here 👇🏻\nhttps://github.com/Thmsglchr/godot-2-5d-environments",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2123774006683709684/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2123774006683709684"
+ },
+ {
+  "id": "2123815633347543159",
+  "title": "Winter castle benchmark comparison",
+  "title_zh": "冬季城堡基准渲染对比",
+  "category": "comparison",
+  "author": {
+   "handle": "EnvolDev",
+   "name": "Tony"
+  },
+  "postUrl": "https://x.com/EnvolDev/status/2123815633347543159",
+  "createdAt": "2026-11-20T16:28:00.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2123815633347543159/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2123815633347543159/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2123815633347543159"
+ },
+ {
+  "id": "2123932620212072581",
+  "title": "Three.js scene created with GPT-6.2 Astra",
+  "title_zh": "使用 GPT-6.2 Astra 制作的 Three.js 场景",
+  "category": "3d-scene",
+  "author": {
+   "handle": "viktoroddy",
+   "name": "Viktor Oddy"
+  },
+  "postUrl": "https://x.com/viktoroddy/status/2123932620212072581",
+  "createdAt": "2026-11-21T00:12:52.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2123932620212072581/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2123932620212072581/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2123932620212072581"
+ },
+ {
+  "id": "2124032787053416458",
+  "title": "A sports car on city streets at sunset",
+  "title_zh": "日落时分驶入城市街道的跑车",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "itx_elysia",
+   "name": "Elysia Ai"
+  },
+  "postUrl": "https://x.com/itx_elysia/status/2124032787053416458",
+  "createdAt": "2026-11-21T06:50:53.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2124032787053416458/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2124032787053416458/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2124032787053416458"
+ },
+ {
+  "id": "2124130353480626223",
+  "title": "A moonlit swamp explored in Three.js",
+  "title_zh": "在浏览器中探索月光下的沼泽场景",
+  "category": "3d-scene",
+  "author": {
+   "handle": "neviannn",
+   "name": "nevian"
+  },
+  "postUrl": "https://x.com/neviannn/status/2124130353480626223",
+  "createdAt": "2026-11-21T13:18:35.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2124130353480626223/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2124130353480626223/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2124130353480626223"
+ },
+ {
+  "id": "2124154102661722370",
+  "title": "A playable 3D ocean storm cargo ship game",
+  "title_zh": "货轮上的可玩3D海上风暴游戏",
+  "category": "game",
+  "author": {
+   "handle": "TokenGremlin",
+   "name": "Token Gremlin"
+  },
+  "postUrl": "https://x.com/TokenGremlin/status/2124154102661722370",
+  "createdAt": "2026-11-21T14:52:57.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2124154102661722370/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2124154102661722370/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2124154102661722370"
+ },
+ {
+  "id": "2124190810900140286",
+  "title": "Sunset gondola ride along the Grand Canal",
+  "title_zh": "大运河上的日落贡多拉之旅",
+  "category": "comparison",
+  "author": {
+   "handle": "teddyaisi",
+   "name": "Teddy"
+  },
+  "postUrl": "https://x.com/teddyaisi/status/2124190810900140286",
+  "createdAt": "2026-11-21T17:18:49.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2124190810900140286/video.mp4",
+  "promptShared": true,
+  "promptText": "GPT-6.2-Astra vs Gemini 4 Neon\n\nPure Three.js. Same prompt, 20-second sunset gondola ride under a Venetian stone bridge onto the Grand Canal.\n\nGPT-6.2-Astra (Top): $11.78 · 1h 9m 24s \nGemini 4 Neon (Bottom): $16.63 · 2h 0m 16s\n\nAstra or Neon?👇♥️",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2124190810900140286/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2124190810900140286"
+ },
+ {
+  "id": "2124203254011854973",
+  "title": "Comparing Eiffel Tower builds in Three.js",
+  "title_zh": "Three.js 构建埃菲尔铁塔多模型对比",
+  "category": "comparison",
+  "author": {
+   "handle": "Bhavani_00007",
+   "name": "Bhavy☄️"
+  },
+  "postUrl": "https://x.com/Bhavani_00007/status/2124203254011854973",
+  "createdAt": "2026-11-21T18:08:16.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2124203254011854973/video.mp4",
+  "promptShared": true,
+  "promptText": "I asked Gemini 4 Neon, GPT-6.2 Astra, GPT-6.2 Sol, Opus 5.5 to build the Eiffel Tower in Three.js.\n\nThis is what they come with.\n\nwhich one did it best?",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2124203254011854973/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2124203254011854973"
+ },
+ {
+  "id": "2124327889776640303",
+  "title": "Walking AT-AT comparison in Three.js and Blender",
+  "title_zh": "Three.js与Blender行走AT-AT对比",
+  "category": "comparison",
+  "author": {
+   "handle": "vib3coded",
+   "name": "Vib3Coded"
+  },
+  "postUrl": "https://x.com/vib3coded/status/2124327889776640303",
+  "createdAt": "2026-11-22T02:23:31.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2124327889776640303/video.mp4",
+  "promptShared": true,
+  "promptText": "Why is everyone still using Blender for AI-generated 3D when Three.js exists?\n\nI gave GPT-6.2 Astra the same task twice on XHigh: build a walking AT-AT\n\nThree.js - 48 minutes and $14.86\nBlender - 2 hours 15 minutes and $22.65\n\nWatch both walkers in motion. Which one wins? 👀",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2124327889776640303/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2124327889776640303"
+ },
+ {
+  "id": "2124353151646200097",
+  "title": "Baroque library walk comparison in Three.js",
+  "title_zh": "Three.js巴洛克图书馆漫步渲染对比",
+  "category": "comparison",
+  "author": {
+   "handle": "teddyaisi",
+   "name": "Teddy"
+  },
+  "postUrl": "https://x.com/teddyaisi/status/2124353151646200097",
+  "createdAt": "2026-11-22T04:03:54.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2124353151646200097/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2124353151646200097/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2124353151646200097"
+ },
+ {
+  "id": "2124600807123288538",
+  "title": "Space train generation comparison across three models",
+  "title_zh": "三款模型生成太空列车的对比测试",
+  "category": "comparison",
+  "author": {
+   "handle": "EnvolDev",
+   "name": "Tony"
+  },
+  "postUrl": "https://x.com/EnvolDev/status/2124600807123288538",
+  "createdAt": "2026-11-22T20:28:00.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2124600807123288538/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2124600807123288538/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2124600807123288538"
+ },
+ {
+  "id": "2124646782433124652",
+  "title": "Hyper-realistic WebGL scenes using GLSL shaders",
+  "title_zh": "使用GLSL着色器构建的超逼真WebGL场景",
+  "category": "3d-scene",
+  "author": {
+   "handle": "kloss_xyz",
+   "name": "klöss"
+  },
+  "postUrl": "https://x.com/kloss_xyz/status/2124646782433124652",
+  "createdAt": "2026-11-22T23:30:41.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/fable-5-2/2124646782433124652/video.mp4",
+  "promptShared": true,
+  "promptText": "Want to test out your 3D ideas before committing endless hours to modeling and rendering them?\n\nYou can skip Blender and Three.js. Use raw WebGL and GLSL shaders to build a hyper-realistic scene with GPT-6.2 Astra or Fable 5.2. You’ll get a single HTML file in under 20 minutes.\n\nI remixed this prompt into 20 of my own. Here are 3 of my favorites.\n\nPrototype a game, test a site idea, or pitch a partner or collaborators before you polish anything.\n\nSave this prompt, remix the process, and show me the most beautiful thing you build.\n\nMy 3 prompts for these are below.",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/fable-5-2/2124646782433124652/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2124646782433124652"
+ },
+ {
+  "id": "2124721602856354005",
+  "title": "Morning walk through a glass botanical conservatory",
+  "title_zh": "水晶玻璃植物温室中的清晨漫步",
+  "category": "comparison",
+  "author": {
+   "handle": "teddyaisi",
+   "name": "Teddy"
+  },
+  "postUrl": "https://x.com/teddyaisi/status/2124721602856354005",
+  "createdAt": "2026-11-23T04:28:00.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2124721602856354005/video.mp4",
+  "promptShared": true,
+  "promptText": "GPT-6.2-Astra vs Gemini 4 Neon.\n\nPure three.js. Same prompt, 20-second morning walk through a Victorian crystal glass botanical conservatory.\n\nGPT-6.2-Astra (Top): $6.87 · 46m 46s\nGemini 4 Neon (Bottom): $10.19 · 1h 13m 54s\n\nAstra or Neon?👇❤️",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2124721602856354005/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2124721602856354005"
+ },
+ {
+  "id": "2124831684952523057",
+  "title": "Four models generating an octopus around a lighthouse",
+  "title_zh": "四款AI模型生成灯塔旁的巨型章鱼对比",
+  "category": "comparison",
+  "author": {
+   "handle": "Lummox_eth",
+   "name": "Lummox"
+  },
+  "postUrl": "https://x.com/Lummox_eth/status/2124831684952523057",
+  "createdAt": "2026-11-23T11:45:25.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2124831684952523057/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2124831684952523057/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2124831684952523057"
+ },
+ {
+  "id": "2124854982235373664",
+  "title": "Interactive train ride through the Swiss Alps",
+  "title_zh": "穿越瑞士阿尔卑斯山的交互式列车视角",
+  "category": "3d-scene",
+  "author": {
+   "handle": "diegocabezas01",
+   "name": "Diego | AI 🚀 - e/acc"
+  },
+  "postUrl": "https://x.com/diegocabezas01/status/2124854982235373664",
+  "createdAt": "2026-11-23T13:18:00.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2124854982235373664/video.mp4",
+  "promptShared": true,
+  "promptText": "GPT-6.2 Astra Ultra: Create a cinematic, photorealistic view from a window seat on a train crossing the Swiss Alps in a self-contained HTML file. Generate the scene entirely through code, without downloaded images or 3D models. The camera sits inside the carriage looking out the window as the train passes snowy peaks, pine forests, alpine villages, lakes, viaducts, and tunnels. Make the camera interactive: click and drag to look around a full 360 degrees, including the carriage interior, scroll to zoom in and out, and return to the default window view after a few seconds of no input. Support touch too (drag to look, pinch to zoom). Choose the techniques yourself, then render, inspect, and iteratively improve the parallax between near and far scenery, motion blur on close objects, reflections of the interior on the glass, tunnel entries and exits with realistic exposure shifts, the subtle sway of the train, and the lighting on the mountains until they feel convincing.",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2124854982235373664/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2124854982235373664"
+ },
+ {
+  "id": "2124899286739816771",
+  "title": "Comparing walker models in Three.js and Blender",
+  "title_zh": "Three.js 与 Blender 制作行走机器人对比",
+  "category": "comparison",
+  "author": {
+   "handle": "vib3coded",
+   "name": "Vib3Coded"
+  },
+  "postUrl": "https://x.com/vib3coded/status/2124899286739816771",
+  "createdAt": "2026-11-23T16:14:03.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2124899286739816771/video.mp4",
+  "promptShared": true,
+  "promptText": "Three.js or Blender?\n\nI gave GPT-6.2 Astra the same task twice on XHigh: build a walker\n\nThree.js - 55 minutes and $8.22\nBlender - 1 hour 38 minutes and $16.24\n\nThe Blender version cost almost twice as much. Which walker looks more expensive? 👀",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2124899286739816771/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2124899286739816771"
+ },
+ {
+  "id": "2124931343469674584",
+  "title": "Game style item pickup animation for a product",
+  "title_zh": "游戏风格的产品拾取动画展示",
+  "category": "game",
+  "author": {
+   "handle": "heyemilyx",
+   "name": "Emily Watson | AI Tools & Tech News"
+  },
+  "postUrl": "https://x.com/heyemilyx/status/2124931343469674584",
+  "createdAt": "2026-11-23T18:21:26.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2124931343469674584/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2124931343469674584/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2124931343469674584"
+ },
+ {
+  "id": "2124997465892106525",
+  "title": "Four models rebuilding a web component in code",
+  "title_zh": "四个前沿模型用代码重构网页组件",
+  "category": "comparison",
+  "author": {
+   "handle": "liambraus",
+   "name": "liam."
+  },
+  "postUrl": "https://x.com/liambraus/status/2124997465892106525",
+  "createdAt": "2026-11-23T22:44:11.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/fable-5-2/2124997465892106525/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/fable-5-2/2124997465892106525/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2124997465892106525"
+ },
+ {
+  "id": "2125074060967391612",
+  "title": "A product pickup animation in GTA style",
+  "title_zh": "GTA风格的商品拾取动画",
+  "category": "game",
+  "author": {
+   "handle": "ethancarterhub",
+   "name": "Ethan Carter"
+  },
+  "postUrl": "https://x.com/ethancarterhub/status/2125074060967391612",
+  "createdAt": "2026-11-24T03:48:32.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125074060967391612/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125074060967391612/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2125074060967391612"
+ },
+ {
+  "id": "2125119730445083031",
+  "title": "Papercraft animated short of an escaping doodle",
+  "title_zh": "涂鸦角色逃出纸篓的定格纸艺短片",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "sonuv_dev",
+   "name": "sou | Ai & Tech"
+  },
+  "postUrl": "https://x.com/sonuv_dev/status/2125119730445083031",
+  "createdAt": "2026-11-24T06:50:01.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125119730445083031/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125119730445083031/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2125119730445083031"
+ },
+ {
+  "id": "2125125199846949040",
+  "title": "Blind test between GPT-6.2 Astra and Opus 5.5",
+  "title_zh": "GPT-6.2 Astra 与 Opus 5.5 代码盲测",
+  "category": "comparison",
+  "author": {
+   "handle": "liu8in",
+   "name": "Bin Liu"
+  },
+  "postUrl": "https://x.com/liu8in/status/2125125199846949040",
+  "createdAt": "2026-11-24T07:11:45.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125125199846949040/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125125199846949040/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2125125199846949040"
+ },
+ {
+  "id": "2125132455032316136",
+  "title": "Floating deep sea ecosphere 3D scene comparison",
+  "title_zh": "悬浮深海生态缸 3D 场景对比",
+  "category": "comparison",
+  "author": {
+   "handle": "FiniYang",
+   "name": "Fini.Yang"
+  },
+  "postUrl": "https://x.com/FiniYang/status/2125132455032316136",
+  "createdAt": "2026-11-24T07:40:34.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125132455032316136/video.mp4",
+  "promptShared": true,
+  "promptText": "🔥 兄弟们帮我评评，这局我真选不出来了 👀\n\n手搓一座「悬浮深海生态缸」\n\n⬆️ GPT-6.2 Astra（37 分 28 秒）\n博物馆级克制设计：水下那头座头鲸的吻部结节、喉褶和胸鳍写实得像手雕出来的，四层剖面直接把玻璃缸切成了四个悬浮水匣，左边还配了物种图鉴卡\n\n⬇️ Gemini 4 Neon（33 分 38 秒）\n全屏光学氛围直接拉满：波浪弯月水线、丁达尔光柱、铺满沙床的焦散网纹和熔岩热液喷口极通透，第 12 秒声呐波扫过海底还会亮起一圈圈等高线光环\n\n前面几局还能一眼看出谁占上风，这局是真难分伯仲了\n\n已发布到我的测评馆，直接可玩，含提示词，链接放下面了 ⬇️\n#GPT62Astra #Gemini4Neon #Threejs #WebGL #VibeCoding",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125132455032316136/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2125132455032316136"
+ },
+ {
+  "id": "2125132741427507214",
+  "title": "Volcanic eruption animation comparison in Three.js",
+  "title_zh": "火山喷发场景的AI生成对比",
+  "category": "comparison",
+  "author": {
+   "handle": "BreezeOg1",
+   "name": "BreezeOg"
+  },
+  "postUrl": "https://x.com/BreezeOg1/status/2125132741427507214",
+  "createdAt": "2026-11-24T07:41:43.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125132741427507214/video.mp4",
+  "promptShared": true,
+  "promptText": "GEMINI 4 NEON VS OPUS 5.5\n\nGave both the same prompt: Render a 3-second, 1080x1920, 30 fps three.js + Remotion video of a dusk volcanic island that rumbles, then erupts with a lava fountain, glowing bombs, lava rivers and a rising ash plume, ending on a soft hold, saved as out/volcano.mp4.\n\n• opus 5.5: 19mins, 1.4m tokens, ~$5.60\n• gemini 4 neon: 31 mins, 1.5m tokens, ~$6.1\n\nThis is my first test on neon and contrary to what's out there, sure enough neon is an excellent model in compatible to gpt-6.2 astra but it is no way the same with opus 5.5.\n\nNevertheless, this is a very excellent upgrade from Google.",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125132741427507214/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2125132741427507214"
+ },
+ {
+  "id": "2125139286445916172",
+  "title": "Number guessing game between five AI models",
+  "title_zh": "五款大模型之间的猜数字心理战游戏",
+  "category": "game",
+  "author": {
+   "handle": "0x_kern",
+   "name": "Kern"
+  },
+  "postUrl": "https://x.com/0x_kern/status/2125139286445916172",
+  "createdAt": "2026-11-24T08:07:43.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125139286445916172/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125139286445916172/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2125139286445916172"
+ },
+ {
+  "id": "2125148076339794011",
+  "title": "Comparison of sci-fi game battle scenes",
+  "title_zh": "科幻游戏战斗场景生成对比",
+  "category": "comparison",
+  "author": {
+   "handle": "backerd_ceo5",
+   "name": "Backer"
+  },
+  "postUrl": "https://x.com/backerd_ceo5/status/2125148076339794011",
+  "createdAt": "2026-11-24T08:42:39.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125148076339794011/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125148076339794011/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2125148076339794011"
+ },
+ {
+  "id": "2125212851040043337",
+  "title": "A 3D seaport rendered in Three.js",
+  "title_zh": "纯代码构建的Three.js 3D海港",
+  "category": "3d-scene",
+  "author": {
+   "handle": "Stargridcompass",
+   "name": "高运通"
+  },
+  "postUrl": "https://x.com/Stargridcompass/status/2125212851040043337",
+  "createdAt": "2026-11-24T13:00:02.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125212851040043337/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125212851040043337/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2125212851040043337"
+ },
+ {
+  "id": "2125214350843498981",
+  "title": "A Formula 1 car wind tunnel test",
+  "title_zh": "F1 赛车风洞空气动力学测试",
+  "category": "3d-scene",
+  "author": {
+   "handle": "diegocabezas01",
+   "name": "Diego | AI 🚀 - e/acc"
+  },
+  "postUrl": "https://x.com/diegocabezas01/status/2125214350843498981",
+  "createdAt": "2026-11-24T13:06:00.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125214350843498981/video.mp4",
+  "promptShared": true,
+  "promptText": "GPT-6.2 Astra Ultra: Create a cinematic, photorealistic view of a Formula 1 car being tested in a wind tunnel in a self-contained HTML file. Generate the scene entirely through code, without downloaded images or 3D models. Use an original car design with no real team liveries, logos, or sponsors. The camera glides slowly around the car while smoke streams flow over it. Make the camera interactive: click and drag to look around a full 360 degrees, scroll to zoom in and out, and resume the automatic glide after a few seconds of no input. Support touch too (drag to look, pinch to zoom). Choose the techniques yourself, then render, inspect, and iteratively improve the smoke streamlines bending around the wings and body, the turbulence behind the car, the carbon fiber weave and how it catches the light, the tire rubber and sidewall detail, the spinning wheels on the rolling road, the tunnel lighting, and the camera movement until they feel convincing.",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125214350843498981/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2125214350843498981"
+ },
+ {
+  "id": "2125220812554723580",
+  "title": "Comparison of animated rocket launch generations",
+  "title_zh": "四款模型生成火箭发射动态对比",
+  "category": "comparison",
+  "author": {
+   "handle": "HavisT83099",
+   "name": "Havis | Claude Code"
+  },
+  "postUrl": "https://x.com/HavisT83099/status/2125220812554723580",
+  "createdAt": "2026-11-24T13:31:41.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2125220812554723580/video.mp4",
+  "promptShared": true,
+  "promptText": "Gemini 4 Neon parked two giant boulders in front of the camera 💀\n\nSame photo, same prompt: make this rocket launch move.\n\n🥇 Claude Opus 5.5: $4.11 · 20 min\n🥈 GPT-6.2 Astra: $0.51 · 4 min\n🥉 Kimi K3.1 Pro: $0.34 · 9 min\n💀 Gemini 4 Neon: $0.63 · 6 min\n\nOpus got the whole launch. Flame, smoke rolling over the pad, and the camera tilts up and follows it into the sky.\n\nAstra cut the sky and the shoreline out of the reference photo again and built the launch on top of them. Looks great, but the rocket only gets a bit above the tower before the loop fades back.\n\nKimi launched a toy rocket 😭\n\nNeon's rocket flies fine. You just see most of it over a rock.\n\nWhich one would you watch?",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2125220812554723580/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2125220812554723580"
+ },
+ {
+  "id": "2125229735156293920",
+  "title": "Web design results across six AI models",
+  "title_zh": "六款模型网页设计结果评测",
+  "category": "comparison",
+  "author": {
+   "handle": "PovilasKorop",
+   "name": "Povilas Korop | AI Coding & Laravel Educator"
+  },
+  "postUrl": "https://x.com/PovilasKorop/status/2125229735156293920",
+  "createdAt": "2026-11-24T14:07:08.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125229735156293920/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125229735156293920/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2125229735156293920"
+ },
+ {
+  "id": "2125278243708153873",
+  "title": "Full chess match between Claude and ChatGPT",
+  "title_zh": "Claude与ChatGPT国际象棋对局",
+  "category": "comparison",
+  "author": {
+   "handle": "kinderlayer",
+   "name": "Kinder"
+  },
+  "postUrl": "https://x.com/kinderlayer/status/2125278243708153873",
+  "createdAt": "2026-11-24T17:19:53.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125278243708153873/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125278243708153873/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2125278243708153873"
+ },
+ {
+  "id": "2125293653195415776",
+  "title": "Scenes generated in single HTML files",
+  "title_zh": "单 HTML 纯代码生成的 3D 场景",
+  "category": "3d-scene",
+  "author": {
+   "handle": "kloss_xyz",
+   "name": "klöss"
+  },
+  "postUrl": "https://x.com/kloss_xyz/status/2125293653195415776",
+  "createdAt": "2026-11-24T18:21:07.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125293653195415776/video.mp4",
+  "promptShared": true,
+  "promptText": "All these scenes are single HTML files and pure code. Each took less than 20 minutes with GPT-6.2 Astra and no image model was used either.\n\nI am a bit mindblown right now.\n\nAll three prompts are below.",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125293653195415776/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2125293653195415776"
+ },
+ {
+  "id": "2125295428237398395",
+  "title": "Comparison of bench press body anatomy animation",
+  "title_zh": "卧推过程身体肌肉机制动画对比",
+  "category": "comparison",
+  "author": {
+   "handle": "LordMarket22",
+   "name": "Peter"
+  },
+  "postUrl": "https://x.com/LordMarket22/status/2125295428237398395",
+  "createdAt": "2026-11-24T18:28:10.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125295428237398395/video.mp4",
+  "promptShared": true,
+  "promptText": "🚨 Codex & Claude users!!\n\nClaude Fable used 80% FEWER tokens. \nFinished SOONER. \nAnd the COST basically the SAME! 😂 \n\nSame job: make a 60 seconds film showing what happens in your body during a bench press. \n\nBOTH one shoot, and HIGH.\n\nTop → GPT-6.2 Astra in Codex\nBottom → Claude Fable 5.2 in Claude Code\n\n→ Time　41m 46s vs 18m 35s\n→ Tokens incl. cache　6.03M vs 1.23M\n→ Estimated API cost　~$6.94 vs $6.84\n\nAstra’s animation looks CLEARLY better to me. \nCodex seems to have leveled up for these kinds of videos.\n\nPause at 0:16.: That Astra rotator cuff shot is burned into my brain now 😂\n\nwdyt folks? 👀\n\nSay “hi” and I’ll DM you the exact prompt.",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125295428237398395/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2125295428237398395"
+ },
+ {
+  "id": "2125306793052041426",
+  "title": "Side-by-side comparison of AI game generation",
+  "title_zh": "两款模型生成游戏世界效果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "SamgreyAi",
+   "name": "Sam"
+  },
+  "postUrl": "https://x.com/SamgreyAi/status/2125306793052041426",
+  "createdAt": "2026-11-24T19:13:20.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125306793052041426/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125306793052041426/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2125306793052041426"
+ },
+ {
+  "id": "2125322475798192177",
+  "title": "Comparing iterative web design edits across models",
+  "title_zh": "多款模型迭代修改网页设计效果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "DesignArena",
+   "name": "Intelligence (DesignArena)"
+  },
+  "postUrl": "https://x.com/DesignArena/status/2125322475798192177",
+  "createdAt": "2026-11-24T20:15:39.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125322475798192177/video.mp4",
+  "promptShared": true,
+  "promptText": "Today’s frontier models claim to fix AI slop in one edit. However, when asked to improve a page again, @GoogleDeepMind's Gemini 4 Carbon kept redesigning it up to edit 10, whereas @AnthropicAI's Claude Fable 5.2 was confident its page was already the best and barely changed it after edit 3.\n\nDesign tools increasingly make use of iterative coding agents, but these loops depend on consistent judgment, so follow-up prompts can improve a page without rewriting working layouts.\n\nWe gave four frontier models AI-slop web pages and had each model edit each page ten times in a row. Every edit was a separate call with only the latest HTML and the prompt \"Make the below website look less like AI slop. Reply with only the complete HTML file.\"\n\nAfter each edit, a separate judge call to the same model scored the page from 0% (no AI slop) to 100% (all AI slop).\n\nEvery model's judge deemed its work fixed on edit 1. However, @OpenAI's GPT-6.2 Astra kept making updates on later edits, and the other models' judges gave its output the lowest slop scores. @AIatMeta's Muse Wonder, on the other hand, shifted toward formulaic beige layouts with serif headlines.",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125322475798192177/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2125322475798192177"
  }
 ]
