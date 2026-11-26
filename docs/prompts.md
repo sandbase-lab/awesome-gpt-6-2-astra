@@ -2,15 +2,15 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-36 GPT-6.2 Astra videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with GPT-6.2 Astra on SandBase Lab. New to prompting GPT-6.2 Astra? Start with the [prompt guide](prompt-guide.md).
+41 GPT-6.2 Astra videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with GPT-6.2 Astra on SandBase Lab. New to prompting GPT-6.2 Astra? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, so open the post on X to read the full thread. Posts keep the creator's language.
 
-- [3D scenes](#3d-scene) (5)
-- [Motion graphics](#motion-graphics) (1)
+- [3D scenes](#3d-scene) (6)
+- [Motion graphics](#motion-graphics) (2)
 - [Games](#game) (4)
 - [Explainers](#explainer) (1)
-- [Tests & comparisons](#comparison) (25)
+- [Tests & comparisons](#comparison) (28)
 
 <a id="3d-scene"></a>
 
@@ -87,6 +87,14 @@ I am a bit mindblown right now.
 All three prompts are below.
 ```
 
+### Interactive whiskey glass on a wooden bar
+
+[@diegocabezas01](https://x.com/diegocabezas01/status/2125947575605821601) · [Watch](https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125947575605821601/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2125947575605821601?utm_source=github&utm_medium=docs&utm_campaign=awesome-gpt-6-2-astra&utm_content=prompt-index)
+
+```text
+GPT-6.2 Astra Ultra: Create a cinematic, photorealistic close-up of a whiskey glass with ice on a dark wooden bar in a self-contained HTML file. Generate the scene entirely through code, without downloaded images or 3D models. The camera slowly circles the glass at table height under a single warm light. Make the camera interactive: click and drag to look around a full 360 degrees, scroll to zoom in and out, and resume the automatic orbit after a few seconds of no input. Support touch too (drag to look, pinch to zoom). Choose the techniques yourself, then render, inspect, and iteratively improve the refraction through the glass, the whiskey, and the ice, the caustics cast on the table, the ice cubes slowly melting and shifting, the condensation drops forming and running down the glass, the amber color depth, and the camera movement until they feel convincing.
+```
+
 <a id="motion-graphics"></a>
 
 ## Motion graphics
@@ -103,6 +111,22 @@ GPT-6.2 Astra made an instrument out of gravity
 sound on, wait for second 24. 
 
 prompt in the reply
+```
+
+### Short film about being human for a day
+
+[@Techmadara](https://x.com/Techmadara/status/2126002372799508499) · [Watch](https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2126002372799508499/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2126002372799508499?utm_source=github&utm_medium=docs&utm_campaign=awesome-gpt-6-2-astra&utm_content=prompt-index)
+
+```text
+I asked GPT-6.2 Astra one question:
+
+"If you became human for 24 hours, what would you do?"
+
+It assembled a team of AI agents to turn its imagination into a short film.
+
+Built entirely in a single HTML file. No external assets. Just pure code.
+
+Here's the result.
 ```
 
 <a id="game"></a>
@@ -688,4 +712,63 @@ The results, graphics and costs were very different.
 https://youtu.be/q7wakk1XapE
 
 #AI #GameDev #UnrealEngine #Claude #GPT
+```
+
+### Recreating the Palais Garnier Grand Staircase in Three.js
+
+[@happycapyai](https://x.com/happycapyai/status/2125900277408743935) · [Watch](https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125900277408743935/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2125900277408743935?utm_source=github&utm_medium=docs&utm_campaign=awesome-gpt-6-2-astra&utm_content=prompt-index)
+
+```text
+Two models ran the same prompt in parallel to recreate the Palais Garnier’s Grand Staircase as a walkable Three.js scene.
+
+Fable 5.2: ~45 min · $27.11
+GPT-6.2 Astra: ~20 min · $16.06
+
+Which version would you pick for a historical game? Full prompt in the comments 👇
+```
+
+### Rotary engine explainer comparison across four models
+
+[@HavisT83099](https://x.com/HavisT83099/status/2125945543482339451) · [Watch](https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125945543482339451/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2125945543482339451?utm_source=github&utm_medium=docs&utm_campaign=awesome-gpt-6-2-astra&utm_content=prompt-index)
+
+```text
+Claude Fable 5.2 cost the most and drew the smallest engine 💀
+
+One prompt: show how a rotary engine works.
+
+🥇 Claude Opus 5.5: $6.54 · 18 min
+🥈 GPT-6.2 Astra: $3.54 · 5 min
+🥉 GPT-6 Astra: $4.72 · 8 min
+💀 Claude Fable 5.2: $9.18 · 16 min
+
+Opus labeled everything. Apex seals, ring gear, stationary gear, both ports, and the spark actually lights the orange chamber.
+
+GPT-6.2 Astra went huge and clean. You can see the triangle rotor sweep every chamber.
+
+GPT-6 Astra made it look like a poster and even wrote the 3:1 shaft ratio.
+
+Fable got the cycle right, then shrank it to the middle of the screen 😭
+
+Which one finally explains it?
+```
+
+### Trident god erupting from seafloor comparison
+
+[@kinderlayer](https://x.com/kinderlayer/status/2125995083044356557) · [Watch](https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125995083044356557/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2125995083044356557?utm_source=github&utm_medium=docs&utm_campaign=awesome-gpt-6-2-astra&utm_content=prompt-index)
+
+```text
+this is f*cking unreal - and I made it with one prompt.
+
+a trident god erupting from a cracked seafloor. same prompt, two models: Claude Fable 5.2 vs GPT-6.2 Astra.
+
+the whole method, steal it:
+→ write one scene in plain words
+→ run it through both models in Higgsfield, same settings
+→ drop the two side by side
+
+no editing, no 3D, no skills. that's the entire trick.
+
+bookmark this so you can make your own
+
+so who do you think pulled it off better - Fable or Astra?
 ```

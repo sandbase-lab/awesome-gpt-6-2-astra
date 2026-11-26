@@ -3526,5 +3526,190 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125827315011912121/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2125827315011912121"
+ },
+ {
+  "id": "2125900277408743935",
+  "title": "Recreating the Palais Garnier Grand Staircase in Three.js",
+  "title_zh": "在 Three.js 中重现巴黎歌剧院大楼梯",
+  "category": "comparison",
+  "author": {
+   "handle": "happycapyai",
+   "name": "Happycapy"
+  },
+  "postUrl": "https://x.com/happycapyai/status/2125900277408743935",
+  "createdAt": "2026-11-26T10:31:38.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125900277408743935/video.mp4",
+  "promptShared": true,
+  "promptText": "Two models ran the same prompt in parallel to recreate the Palais Garnier’s Grand Staircase as a walkable Three.js scene.\n\nFable 5.2: ~45 min · $27.11\nGPT-6.2 Astra: ~20 min · $16.06\n\nWhich version would you pick for a historical game? Full prompt in the comments 👇",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125900277408743935/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2125900277408743935"
+ },
+ {
+  "id": "2125937318754189455",
+  "title": "Multi-agent AI video editing system blueprint",
+  "title_zh": "多智能体AI视频剪辑工作流演示",
+  "category": "ui-demo",
+  "author": {
+   "handle": "Astercripi",
+   "name": "Aster"
+  },
+  "postUrl": "https://x.com/Astercripi/status/2125937318754189455",
+  "createdAt": "2026-11-26T12:58:49.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125937318754189455/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125937318754189455/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2125937318754189455"
+ },
+ {
+  "id": "2125945543482339451",
+  "title": "Rotary engine explainer comparison across four models",
+  "title_zh": "四款模型生成转子发动机原理解析对比",
+  "category": "comparison",
+  "author": {
+   "handle": "HavisT83099",
+   "name": "Havis | Claude Code"
+  },
+  "postUrl": "https://x.com/HavisT83099/status/2125945543482339451",
+  "createdAt": "2026-11-26T13:31:30.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125945543482339451/video.mp4",
+  "promptShared": true,
+  "promptText": "Claude Fable 5.2 cost the most and drew the smallest engine 💀\n\nOne prompt: show how a rotary engine works.\n\n🥇 Claude Opus 5.5: $6.54 · 18 min\n🥈 GPT-6.2 Astra: $3.54 · 5 min\n🥉 GPT-6 Astra: $4.72 · 8 min\n💀 Claude Fable 5.2: $9.18 · 16 min\n\nOpus labeled everything. Apex seals, ring gear, stationary gear, both ports, and the spark actually lights the orange chamber.\n\nGPT-6.2 Astra went huge and clean. You can see the triangle rotor sweep every chamber.\n\nGPT-6 Astra made it look like a poster and even wrote the 3:1 shaft ratio.\n\nFable got the cycle right, then shrank it to the middle of the screen 😭\n\nWhich one finally explains it?",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125945543482339451/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2125945543482339451"
+ },
+ {
+  "id": "2125947575605821601",
+  "title": "Interactive whiskey glass on a wooden bar",
+  "title_zh": "纯代码渲染的可交互威士忌酒杯",
+  "category": "3d-scene",
+  "author": {
+   "handle": "diegocabezas01",
+   "name": "Diego | AI 🚀 - e/acc"
+  },
+  "postUrl": "https://x.com/diegocabezas01/status/2125947575605821601",
+  "createdAt": "2026-11-26T13:39:34.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125947575605821601/video.mp4",
+  "promptShared": true,
+  "promptText": "GPT-6.2 Astra Ultra: Create a cinematic, photorealistic close-up of a whiskey glass with ice on a dark wooden bar in a self-contained HTML file. Generate the scene entirely through code, without downloaded images or 3D models. The camera slowly circles the glass at table height under a single warm light. Make the camera interactive: click and drag to look around a full 360 degrees, scroll to zoom in and out, and resume the automatic orbit after a few seconds of no input. Support touch too (drag to look, pinch to zoom). Choose the techniques yourself, then render, inspect, and iteratively improve the refraction through the glass, the whiskey, and the ice, the caustics cast on the table, the ice cubes slowly melting and shifting, the condensation drops forming and running down the glass, the amber color depth, and the camera movement until they feel convincing.",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125947575605821601/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2125947575605821601"
+ },
+ {
+  "id": "2125988908530057367",
+  "title": "Airplane prompt comparison across four AI models",
+  "title_zh": "四款AI模型高山金飞机生成对比",
+  "category": "comparison",
+  "author": {
+   "handle": "Pan_Ecosystem",
+   "name": "PAN"
+  },
+  "postUrl": "https://x.com/Pan_Ecosystem/status/2125988908530057367",
+  "createdAt": "2026-11-26T16:23:49.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125988908530057367/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2123029221857456568/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2125988908530057367"
+ },
+ {
+  "id": "2125995083044356557",
+  "title": "Trident god erupting from seafloor comparison",
+  "title_zh": "海底三叉戟神祇模型生成对比",
+  "category": "comparison",
+  "author": {
+   "handle": "kinderlayer",
+   "name": "Kinder"
+  },
+  "postUrl": "https://x.com/kinderlayer/status/2125995083044356557",
+  "createdAt": "2026-11-26T16:48:21.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125995083044356557/video.mp4",
+  "promptShared": true,
+  "promptText": "this is f*cking unreal - and I made it with one prompt.\n\na trident god erupting from a cracked seafloor. same prompt, two models: Claude Fable 5.2 vs GPT-6.2 Astra.\n\nthe whole method, steal it:\n→ write one scene in plain words\n→ run it through both models in Higgsfield, same settings\n→ drop the two side by side\n\nno editing, no 3D, no skills. that's the entire trick.\n\nbookmark this so you can make your own\n\nso who do you think pulled it off better - Fable or Astra?",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125995083044356557/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2125995083044356557"
+ },
+ {
+  "id": "2125995984400654658",
+  "title": "Endless motorcycle ride in Three.js",
+  "title_zh": "Three.js实现的无尽摩托骑行场景",
+  "category": "3d-scene",
+  "author": {
+   "handle": "MengTo",
+   "name": "Meng To"
+  },
+  "postUrl": "https://x.com/MengTo/status/2125995984400654658",
+  "createdAt": "2026-11-26T16:51:56.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125995984400654658/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125995984400654658/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2125995984400654658"
+ },
+ {
+  "id": "2126002372799508499",
+  "title": "Short film about being human for a day",
+  "title_zh": "体验人类一天的AI短片",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "Techmadara",
+   "name": "madara"
+  },
+  "postUrl": "https://x.com/Techmadara/status/2126002372799508499",
+  "createdAt": "2026-11-26T17:17:19.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2126002372799508499/video.mp4",
+  "promptShared": true,
+  "promptText": "I asked GPT-6.2 Astra one question:\n\n\"If you became human for 24 hours, what would you do?\"\n\nIt assembled a team of AI agents to turn its imagination into a short film.\n\nBuilt entirely in a single HTML file. No external assets. Just pure code.\n\nHere's the result.",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2126002372799508499/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2126002372799508499"
+ },
+ {
+  "id": "2126037670573072863",
+  "title": "Benchmark test of GPT-6.2 solving impossible tasks",
+  "title_zh": "GPT-6.2解答不可解任务基准测试",
+  "category": "explainer",
+  "author": {
+   "handle": "nyxienyxie",
+   "name": "Nyxie"
+  },
+  "postUrl": "https://x.com/nyxienyxie/status/2126037670573072863",
+  "createdAt": "2026-11-26T19:37:35.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2126037670573072863/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2126037670573072863/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2126037670573072863"
+ },
+ {
+  "id": "2126049246814101693",
+  "title": "Giant octopus wrapping around a lighthouse comparison",
+  "title_zh": "巨型章鱼缠绕灯塔场景多模型对比",
+  "category": "comparison",
+  "author": {
+   "handle": "0xmurasame",
+   "name": "Murasame"
+  },
+  "postUrl": "https://x.com/0xmurasame/status/2126049246814101693",
+  "createdAt": "2026-11-26T20:23:35.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2126049246814101693/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2126049246814101693/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2126049246814101693"
  }
 ]
