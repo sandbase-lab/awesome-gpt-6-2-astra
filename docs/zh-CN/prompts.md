@@ -2,11 +2,12 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 35 条 GPT-6.2 Astra 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 GPT-6.2 Astra 一键 **复刻**。第一次写 GPT-6.2 Astra 提示词？先看 [提示词写法](prompt-guide.md)。
+共 36 条 GPT-6.2 Astra 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 GPT-6.2 Astra 一键 **复刻**。第一次写 GPT-6.2 Astra 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，请打开 X 原帖查看完整讨论串。帖子原文保留作者语言。
 
 - [3D 场景](#3d-scene) (5)
+- [动效](#motion-graphics) (1)
 - [游戏](#game) (4)
 - [讲解](#explainer) (1)
 - [测试对比](#comparison) (25)
@@ -84,6 +85,24 @@ All these scenes are single HTML files and pure code. Each took less than 20 min
 I am a bit mindblown right now.
 
 All three prompts are below.
+```
+
+<a id="motion-graphics"></a>
+
+## 动效
+
+### 由重力构成的抽象乐器装置
+
+[@rae1101x](https://x.com/rae1101x/status/2125827315011912121) · [观看](https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125827315011912121/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2125827315011912121?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gpt-6-2-astra&utm_content=prompt-index)
+
+```text
+wtf! this is insane 😂
+
+GPT-6.2 Astra made an instrument out of gravity
+
+sound on, wait for second 24. 
+
+prompt in the reply
 ```
 
 <a id="game"></a>

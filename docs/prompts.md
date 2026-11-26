@@ -2,11 +2,12 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-35 GPT-6.2 Astra videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with GPT-6.2 Astra on SandBase Lab. New to prompting GPT-6.2 Astra? Start with the [prompt guide](prompt-guide.md).
+36 GPT-6.2 Astra videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with GPT-6.2 Astra on SandBase Lab. New to prompting GPT-6.2 Astra? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, so open the post on X to read the full thread. Posts keep the creator's language.
 
 - [3D scenes](#3d-scene) (5)
+- [Motion graphics](#motion-graphics) (1)
 - [Games](#game) (4)
 - [Explainers](#explainer) (1)
 - [Tests & comparisons](#comparison) (25)
@@ -84,6 +85,24 @@ All these scenes are single HTML files and pure code. Each took less than 20 min
 I am a bit mindblown right now.
 
 All three prompts are below.
+```
+
+<a id="motion-graphics"></a>
+
+## Motion graphics
+
+### An abstract musical instrument made of gravity
+
+[@rae1101x](https://x.com/rae1101x/status/2125827315011912121) · [Watch](https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125827315011912121/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2125827315011912121?utm_source=github&utm_medium=docs&utm_campaign=awesome-gpt-6-2-astra&utm_content=prompt-index)
+
+```text
+wtf! this is insane 😂
+
+GPT-6.2 Astra made an instrument out of gravity
+
+sound on, wait for second 24. 
+
+prompt in the reply
 ```
 
 <a id="game"></a>
