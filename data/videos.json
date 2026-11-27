@@ -375,7 +375,7 @@
   "durationMs": 7317,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2118163378891805134/video.mp4",
   "promptShared": false,
-  "featured": 6,
+  "featured": 5,
   "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2118163378891805134/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2118163378891805134"
  },
@@ -1042,7 +1042,7 @@
   "durationMs": 131500,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122797438326943962/video.mp4",
   "promptShared": false,
-  "featured": 5,
+  "featured": 6,
   "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122797438326943962/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2122797438326943962"
  },
@@ -1298,24 +1298,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122879969420566740/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2122879969420566740"
- },
- {
-  "id": "2122885577137598800",
-  "title": "Playable fake ad game benchmark comparison",
-  "title_zh": "多模型生成可玩虚假广告游戏对比",
-  "category": "comparison",
-  "author": {
-   "handle": "noclipepe",
-   "name": "noclipepe"
-  },
-  "postUrl": "https://x.com/noclipepe/status/2122885577137598800",
-  "createdAt": "2026-11-18T02:52:17.000Z",
-  "durationMs": 46700,
-  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122885577137598800/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122885577137598800/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2122885577137598800"
  },
  {
   "id": "2122893725512958428",
@@ -1719,24 +1701,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2123083664154144972"
  },
  {
-  "id": "2123091784720888168",
-  "title": "Single-cylinder engine firing cross-section comparison",
-  "title_zh": "单缸发动机剖面点火模拟双模型对比",
-  "category": "comparison",
-  "author": {
-   "handle": "kinderlayer",
-   "name": "Kinder"
-  },
-  "postUrl": "https://x.com/kinderlayer/status/2123091784720888168",
-  "createdAt": "2026-11-18T16:31:41.000Z",
-  "durationMs": 12120,
-  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2123091784720888168/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2123091784720888168/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2123091784720888168"
- },
- {
   "id": "2123095557644386526",
   "title": "Pixel art jet game in HTML",
   "title_zh": "HTML单文件像素风喷气战机游戏",
@@ -2115,24 +2079,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2123581865965855205/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2123581865965855205"
- },
- {
-  "id": "2123604745571164180",
-  "title": "An open-world car game",
-  "title_zh": "开放世界赛车游戏",
-  "category": "game",
-  "author": {
-   "handle": "rubenssoto_ai",
-   "name": "Rubens Soto | AI & SaaS"
-  },
-  "postUrl": "https://x.com/rubenssoto_ai/status/2123604745571164180",
-  "createdAt": "2026-11-20T02:30:00.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2123604745571164180/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2123604745571164180/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2123604745571164180"
  },
  {
   "id": "2123627618146959641",
@@ -3473,6 +3419,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2125691334325657740"
  },
  {
+  "id": "2125779073183973853",
+  "title": "Volcano eruption model comparison test",
+  "title_zh": "火山爆发模型对比测试",
+  "category": "comparison",
+  "author": {
+   "handle": "rubenssoto_ai",
+   "name": "Rubens Soto | AI & SaaS"
+  },
+  "postUrl": "https://x.com/rubenssoto_ai/status/2125779073183973853",
+  "createdAt": "2026-11-26T02:30:00.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-argon/2125779073183973853/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-argon/2125779073183973853/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2125779073183973853"
+ },
+ {
   "id": "2125791641755935021",
   "title": "Classical statue in a web 3D scene",
   "title_zh": "网页3D场景中的古典雕像设计",
@@ -3603,6 +3567,42 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2125947575605821601"
  },
  {
+  "id": "2125978578172940415",
+  "title": "A crown with marble details in Three.js",
+  "title_zh": "Three.js 实时渲染的大理石皇冠",
+  "category": "3d-scene",
+  "author": {
+   "handle": "SammmAing",
+   "name": "Samnang Aing"
+  },
+  "postUrl": "https://x.com/SammmAing/status/2125978578172940415",
+  "createdAt": "2026-11-26T15:42:46.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125978578172940415/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125978578172940415/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2125978578172940415"
+ },
+ {
+  "id": "2125978916569436380",
+  "title": "Hot ball physics simulation comparison across models",
+  "title_zh": "多模型Three.js热球物理模拟对比",
+  "category": "comparison",
+  "author": {
+   "handle": "noclipepe",
+   "name": "noclipepe"
+  },
+  "postUrl": "https://x.com/noclipepe/status/2125978916569436380",
+  "createdAt": "2026-11-26T15:44:07.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2125978916569436380/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2125978916569436380/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2125978916569436380"
+ },
+ {
   "id": "2125988908530057367",
   "title": "Airplane prompt comparison across four AI models",
   "title_zh": "四款AI模型高山金飞机生成对比",
@@ -3711,5 +3711,281 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2126049246814101693/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2126049246814101693"
+ },
+ {
+  "id": "2126049255270068690",
+  "title": "Expressive motion on a dark Three.js website",
+  "title_zh": "基于 Three.js 的深色网站动态效果",
+  "category": "3d-scene",
+  "author": {
+   "handle": "visualexplr",
+   "name": "Visual Explorer"
+  },
+  "postUrl": "https://x.com/visualexplr/status/2126049255270068690",
+  "createdAt": "2026-11-26T20:23:37.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2126049255270068690/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125791641755935021/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2126049255270068690"
+ },
+ {
+  "id": "2126133038300238290",
+  "title": "Interactive 3D room on a personal website",
+  "title_zh": "个人网站上的交互式三维房间",
+  "category": "3d-scene",
+  "author": {
+   "handle": "gofelixpy",
+   "name": "Felix Yang"
+  },
+  "postUrl": "https://x.com/gofelixpy/status/2126133038300238290",
+  "createdAt": "2026-11-27T01:56:32.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2126133038300238290/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2126133038300238290/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2126133038300238290"
+ },
+ {
+  "id": "2126147261864570905",
+  "title": "A twenty-second Three.js animation comparison",
+  "title_zh": "20秒 Three.js 动画生成效果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "Shohank9n1",
+   "name": "Shohan"
+  },
+  "postUrl": "https://x.com/Shohank9n1/status/2126147261864570905",
+  "createdAt": "2026-11-27T02:53:03.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2126147261864570905/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2126294991999848631/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2126147261864570905"
+ },
+ {
+  "id": "2126181134178349400",
+  "title": "Helicopter flying through a storm in Three.js",
+  "title_zh": "Three.js 夜间风暴中飞行的直升机",
+  "category": "comparison",
+  "author": {
+   "handle": "askKlaus",
+   "name": "Klaus"
+  },
+  "postUrl": "https://x.com/askKlaus/status/2126181134178349400",
+  "createdAt": "2026-11-27T05:07:39.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2126181134178349400/video.mp4",
+  "promptShared": true,
+  "promptText": "GPT-6.2 Astra vs Gemini Neon\n\nI gave them both the exact same prompt \n\n“Build a single-file HTML page using Three.js: a helicopter flying through a storm at night over the ocean. Rain, lightning, rough waves, searchlight, and a slowly orbiting camera. No external assets, everything in code.”\n\nGPT-6.2 Astra (max): 42m 9s\nGemini Neon (xhigh): 11m 58s\n\nAstra is still the best model I’ve seen for 3D modeling, and I don’t see anything coming close.\n\nBut Neon nailed the atmosphere.\n\nDark skies, heavy rain, rough waters. It genuinely looks like a helicopter flying through an actual night storm.\n\nNeon got the closest to what was asked.",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2126181134178349400/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2126181134178349400"
+ },
+ {
+  "id": "2126237466911027700",
+  "title": "Interactive 3D explainer of microscopic viruses",
+  "title_zh": "微观病毒交互式三维科普演示",
+  "category": "explainer",
+  "author": {
+   "handle": "exploraX_",
+   "name": "m0h"
+  },
+  "postUrl": "https://x.com/exploraX_/status/2126237466911027700",
+  "createdAt": "2026-11-27T08:51:30.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2126237466911027700/video.mp4",
+  "promptShared": true,
+  "promptText": "Biology classes should’ve been more fun. 🔥\n\nGPT-6.2 Astra built this interactive 3D explainer of microscopic viruses in less than 30 mins.\n\nexplore it here:\nhttps://moh4696.github.io/microscopic-viruses/?virus=influenza\n\ncheck the first comment for the prompt + skill used.",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2126237466911027700/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2126237466911027700"
+ },
+ {
+  "id": "2126263467111854508",
+  "title": "Cost comparison between GPT-6.2 Astra and Gemini 4 Neon",
+  "title_zh": "GPT-6.2 Astra 与 Gemini 4 Neon 的成本对比",
+  "category": "comparison",
+  "author": {
+   "handle": "codeglitch",
+   "name": "CodeGlitch"
+  },
+  "postUrl": "https://x.com/codeglitch/status/2126263467111854508",
+  "createdAt": "2026-11-27T10:34:49.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2126263467111854508/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2126263467111854508/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2126263467111854508"
+ },
+ {
+  "id": "2126264722492428688",
+  "title": "Rome's Trevi Fountain built in Three.js",
+  "title_zh": "Three.js 构建的罗马特雷维喷泉",
+  "category": "comparison",
+  "author": {
+   "handle": "happycapyai",
+   "name": "Happycapy"
+  },
+  "postUrl": "https://x.com/happycapyai/status/2126264722492428688",
+  "createdAt": "2026-11-27T10:39:48.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2126264722492428688/video.mp4",
+  "promptShared": true,
+  "promptText": "Rome’s Trevi Fountain, a few minutes after sunset.\n\nTwo models used the same reference photo to build a Three.js scene you can explore on foot. Watch how the view changes as the cameras move along the basin.\n\nClaude Fable 5.2: ~1 hr · $78.26\nGPT-6.2 Astra: ~2.5 hrs · $35.12\n\nCan you tell one cost a few dozen bucks more than the other? Prompt in the comments 👇",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2126264722492428688/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2126264722492428688"
+ },
+ {
+  "id": "2126284919680663564",
+  "title": "Side-by-side desert scene comparison of two models",
+  "title_zh": "两种AI模型生成的沙漠场景画质对比",
+  "category": "comparison",
+  "author": {
+   "handle": "kinderlayer",
+   "name": "Kinder"
+  },
+  "postUrl": "https://x.com/kinderlayer/status/2126284919680663564",
+  "createdAt": "2026-11-27T12:00:03.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2126284919680663564/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2126284919680663564/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2126284919680663564"
+ },
+ {
+  "id": "2126294991999848631",
+  "title": "Camera glide through a basalt sea cave",
+  "title_zh": "穿过玄武岩海蚀洞的运镜效果",
+  "category": "comparison",
+  "author": {
+   "handle": "notlikeryo_",
+   "name": "ryo"
+  },
+  "postUrl": "https://x.com/notlikeryo_/status/2126294991999848631",
+  "createdAt": "2026-11-27T12:40:05.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2126294991999848631/video.mp4",
+  "promptShared": true,
+  "promptText": "someone just ran the same three.js prompt through gpt-6.2 astra and gemini 4 neon: a 20 second camera glide through a basalt sea cave toward a sunset arch\n\n> astra: $9.86, 1h 11 min\n> neon: $12.90, 1h 35 min\n> in the clip, astra's waves break over the rocks while neon's water stays mostly flat and glassy\n\ntest by @teddyaisi\n\nastra came in better, cheaper and faster on this one",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2126294991999848631/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2126294991999848631"
+ },
+ {
+  "id": "2126324927892537535",
+  "title": "Interactive stormy sea viewed from a ship deck",
+  "title_zh": "从轮船甲板视角的交互式夜间暴风雨海面",
+  "category": "3d-scene",
+  "author": {
+   "handle": "diegocabezas01",
+   "name": "Diego | AI 🚀 - e/acc"
+  },
+  "postUrl": "https://x.com/diegocabezas01/status/2126324927892537535",
+  "createdAt": "2026-11-27T14:39:02.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2126324927892537535/video.mp4",
+  "promptShared": true,
+  "promptText": "GPT-6.2 Astra Ultra: Create a cinematic, photorealistic storm at sea at night, seen from the deck of a ship, in a self-contained HTML file. Generate the scene entirely through code, without downloaded images or 3D models. The camera stands near the bow, looking out over the ship's railing as the hull rises, falls, and rolls through huge waves. Make the camera interactive: click and drag to look around a full 360 degrees, including the deck and the rest of the ship, scroll to zoom in and out, and return to the default view after a few seconds of no input. Support touch too (drag to look, pinch to zoom). Choose the techniques yourself, then render, inspect, and iteratively improve the wave simulation, whitecaps and foam streaks, spray bursting over the bow, rain driven sideways by the wind, lightning lighting up the clouds from inside, the ship's roll and pitch matched to the waves, and wet deck reflections until they feel convincing.",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2126324927892537535/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2126324927892537535"
+ },
+ {
+  "id": "2126327434790215961",
+  "title": "Explaining the Riemann Hypothesis in Three.js",
+  "title_zh": "用 Three.js 解释黎曼猜想",
+  "category": "explainer",
+  "author": {
+   "handle": "aiwithadb",
+   "name": "A.D.BARRY"
+  },
+  "postUrl": "https://x.com/aiwithadb/status/2126327434790215961",
+  "createdAt": "2026-11-27T14:49:00.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2126327434790215961/video.mp4",
+  "promptShared": true,
+  "promptText": "I put GPT-6.2 Astra on Max and asked it to make a video about the Riemann Hypothesis.\n\nAll in Three.js.\n\nHonestly, the result surprised me.\n\nPrompt in the reply 👇",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2126327434790215961/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2126327434790215961"
+ },
+ {
+  "id": "2126338898959958133",
+  "title": "Interactive stocking tearing game in WebGL",
+  "title_zh": "WebGL交互式丝袜撕扯实验游戏",
+  "category": "game",
+  "author": {
+   "handle": "liyue_ai",
+   "name": "李岳"
+  },
+  "postUrl": "https://x.com/liyue_ai/status/2126338898959958133",
+  "createdAt": "2026-11-27T15:34:33.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2126338898959958133/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2126338898959958133/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2126338898959958133"
+ },
+ {
+  "id": "2126358067759698115",
+  "title": "A Route 66 diner bodycam horror scene",
+  "title_zh": "66号公路餐厅随身摄影机视角恐怖短片",
+  "category": "3d-scene",
+  "author": {
+   "handle": "kloss_xyz",
+   "name": "klöss"
+  },
+  "postUrl": "https://x.com/kloss_xyz/status/2126358067759698115",
+  "createdAt": "2026-11-27T16:50:43.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2126358067759698115/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2126358067759698115/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2126358067759698115"
+ },
+ {
+  "id": "2126372122050142567",
+  "title": "A chain reaction of eleven thousand dominoes",
+  "title_zh": "上万张多米诺骨牌的倒塌连锁反应",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "itssotsot",
+   "name": "Sotiris Kaniras"
+  },
+  "postUrl": "https://x.com/itssotsot/status/2126372122050142567",
+  "createdAt": "2026-11-27T17:46:34.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2126372122050142567/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2126372122050142567/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2126372122050142567"
+ },
+ {
+  "id": "2126395225430216902",
+  "title": "Statue of Liberty 3D scene in Three.js",
+  "title_zh": "Three.js 自由女神像3D场景对比",
+  "category": "comparison",
+  "author": {
+   "handle": "N1njaCodex",
+   "name": "NinjaCodex"
+  },
+  "postUrl": "https://x.com/N1njaCodex/status/2126395225430216902",
+  "createdAt": "2026-11-27T19:18:22.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2126395225430216902/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2126395225430216902/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2126395225430216902"
  }
 ]

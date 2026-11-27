@@ -2,15 +2,15 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-41 GPT-6.2 Astra videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with GPT-6.2 Astra on SandBase Lab. New to prompting GPT-6.2 Astra? Start with the [prompt guide](prompt-guide.md).
+47 GPT-6.2 Astra videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with GPT-6.2 Astra on SandBase Lab. New to prompting GPT-6.2 Astra? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, so open the post on X to read the full thread. Posts keep the creator's language.
 
-- [3D scenes](#3d-scene) (6)
+- [3D scenes](#3d-scene) (7)
 - [Motion graphics](#motion-graphics) (2)
 - [Games](#game) (4)
-- [Explainers](#explainer) (1)
-- [Tests & comparisons](#comparison) (28)
+- [Explainers](#explainer) (3)
+- [Tests & comparisons](#comparison) (31)
 
 <a id="3d-scene"></a>
 
@@ -93,6 +93,14 @@ All three prompts are below.
 
 ```text
 GPT-6.2 Astra Ultra: Create a cinematic, photorealistic close-up of a whiskey glass with ice on a dark wooden bar in a self-contained HTML file. Generate the scene entirely through code, without downloaded images or 3D models. The camera slowly circles the glass at table height under a single warm light. Make the camera interactive: click and drag to look around a full 360 degrees, scroll to zoom in and out, and resume the automatic orbit after a few seconds of no input. Support touch too (drag to look, pinch to zoom). Choose the techniques yourself, then render, inspect, and iteratively improve the refraction through the glass, the whiskey, and the ice, the caustics cast on the table, the ice cubes slowly melting and shifting, the condensation drops forming and running down the glass, the amber color depth, and the camera movement until they feel convincing.
+```
+
+### Interactive stormy sea viewed from a ship deck
+
+[@diegocabezas01](https://x.com/diegocabezas01/status/2126324927892537535) · [Watch](https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2126324927892537535/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2126324927892537535?utm_source=github&utm_medium=docs&utm_campaign=awesome-gpt-6-2-astra&utm_content=prompt-index)
+
+```text
+GPT-6.2 Astra Ultra: Create a cinematic, photorealistic storm at sea at night, seen from the deck of a ship, in a self-contained HTML file. Generate the scene entirely through code, without downloaded images or 3D models. The camera stands near the bow, looking out over the ship's railing as the hull rises, falls, and rolls through huge waves. Make the camera interactive: click and drag to look around a full 360 degrees, including the deck and the rest of the ship, scroll to zoom in and out, and return to the default view after a few seconds of no input. Support touch too (drag to look, pinch to zoom). Choose the techniques yourself, then render, inspect, and iteratively improve the wave simulation, whitecaps and foam streaks, spray bursting over the bow, rain driven sideways by the wind, lightning lighting up the clouds from inside, the ship's roll and pitch matched to the waves, and wet deck reflections until they feel convincing.
 ```
 
 <a id="motion-graphics"></a>
@@ -206,6 +214,35 @@ Have fun building and share your creations 😄
 
 Grab the skill here 👇🏻
 https://github.com/Thmsglchr/godot-2-5d-environments
+```
+
+### Interactive 3D explainer of microscopic viruses
+
+[@exploraX_](https://x.com/exploraX_/status/2126237466911027700) · [Watch](https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2126237466911027700/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2126237466911027700?utm_source=github&utm_medium=docs&utm_campaign=awesome-gpt-6-2-astra&utm_content=prompt-index)
+
+```text
+Biology classes should’ve been more fun. 🔥
+
+GPT-6.2 Astra built this interactive 3D explainer of microscopic viruses in less than 30 mins.
+
+explore it here:
+https://moh4696.github.io/microscopic-viruses/?virus=influenza
+
+check the first comment for the prompt + skill used.
+```
+
+### Explaining the Riemann Hypothesis in Three.js
+
+[@aiwithadb](https://x.com/aiwithadb/status/2126327434790215961) · [Watch](https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2126327434790215961/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2126327434790215961?utm_source=github&utm_medium=docs&utm_campaign=awesome-gpt-6-2-astra&utm_content=prompt-index)
+
+```text
+I put GPT-6.2 Astra on Max and asked it to make a video about the Riemann Hypothesis.
+
+All in Three.js.
+
+Honestly, the result surprised me.
+
+Prompt in the reply 👇
 ```
 
 <a id="comparison"></a>
@@ -771,4 +808,58 @@ no editing, no 3D, no skills. that's the entire trick.
 bookmark this so you can make your own
 
 so who do you think pulled it off better - Fable or Astra?
+```
+
+### Helicopter flying through a storm in Three.js
+
+[@askKlaus](https://x.com/askKlaus/status/2126181134178349400) · [Watch](https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2126181134178349400/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2126181134178349400?utm_source=github&utm_medium=docs&utm_campaign=awesome-gpt-6-2-astra&utm_content=prompt-index)
+
+```text
+GPT-6.2 Astra vs Gemini Neon
+
+I gave them both the exact same prompt 
+
+“Build a single-file HTML page using Three.js: a helicopter flying through a storm at night over the ocean. Rain, lightning, rough waves, searchlight, and a slowly orbiting camera. No external assets, everything in code.”
+
+GPT-6.2 Astra (max): 42m 9s
+Gemini Neon (xhigh): 11m 58s
+
+Astra is still the best model I’ve seen for 3D modeling, and I don’t see anything coming close.
+
+But Neon nailed the atmosphere.
+
+Dark skies, heavy rain, rough waters. It genuinely looks like a helicopter flying through an actual night storm.
+
+Neon got the closest to what was asked.
+```
+
+### Rome's Trevi Fountain built in Three.js
+
+[@happycapyai](https://x.com/happycapyai/status/2126264722492428688) · [Watch](https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2126264722492428688/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2126264722492428688?utm_source=github&utm_medium=docs&utm_campaign=awesome-gpt-6-2-astra&utm_content=prompt-index)
+
+```text
+Rome’s Trevi Fountain, a few minutes after sunset.
+
+Two models used the same reference photo to build a Three.js scene you can explore on foot. Watch how the view changes as the cameras move along the basin.
+
+Claude Fable 5.2: ~1 hr · $78.26
+GPT-6.2 Astra: ~2.5 hrs · $35.12
+
+Can you tell one cost a few dozen bucks more than the other? Prompt in the comments 👇
+```
+
+### Camera glide through a basalt sea cave
+
+[@notlikeryo_](https://x.com/notlikeryo_/status/2126294991999848631) · [Watch](https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2126294991999848631/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra/2126294991999848631?utm_source=github&utm_medium=docs&utm_campaign=awesome-gpt-6-2-astra&utm_content=prompt-index)
+
+```text
+someone just ran the same three.js prompt through gpt-6.2 astra and gemini 4 neon: a 20 second camera glide through a basalt sea cave toward a sunset arch
+
+> astra: $9.86, 1h 11 min
+> neon: $12.90, 1h 35 min
+> in the clip, astra's waves break over the rocks while neon's water stays mostly flat and glassy
+
+test by @teddyaisi
+
+astra came in better, cheaper and faster on this one
 ```
